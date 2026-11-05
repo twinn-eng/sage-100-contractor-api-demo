@@ -34,9 +34,9 @@ npm run dev:mock
 
 Open http://localhost:5173. The backend serves a fictional company from `server/mock/fixtures.json` and imitates the API's answers, including a successful write and an `INSUFFICIENT_INVENTORY` refusal (ask for more than 40 of part 1001 from the main warehouse at status 4). Saved allocations are kept in memory until you stop the server.
 
-### 2. With the demo company
+### 2. With an API key
 
-Twinn runs a demo company with fictional Sage 100 Contractor books at `demo.twinn.engineering`. To get an API key for it, ask for a demo key at [twinn.engineering](https://twinn.engineering). Then:
+Request an API key at [twinn.engineering](https://twinn.engineering). Then:
 
 ```sh
 cp .env.example .env
