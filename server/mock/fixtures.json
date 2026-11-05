@@ -1,0 +1,3426 @@
+{
+  "parts": [
+    {
+      "id": "0e43b85c-c8aa-4d35-8bb0-a7ec18eba9ee",
+      "recordNumber": 1001,
+      "partCode": "PL-100",
+      "partName": "3/4in copper elbow",
+      "partUnit": "EA",
+      "averageCost": "1.8600",
+      "partCost": "1.8600",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.100",
+      "costType": 1
+    },
+    {
+      "id": "55d52464-e8be-4048-8863-e055ae826456",
+      "recordNumber": 1002,
+      "partCode": "PL-101",
+      "partName": "1/2in copper elbow",
+      "partUnit": "EA",
+      "averageCost": "1.1200",
+      "partCost": "1.1200",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.100",
+      "costType": 1
+    },
+    {
+      "id": "5893e7da-a88b-4f6b-8495-56ce1d1621f3",
+      "recordNumber": 1003,
+      "partCode": "PL-102",
+      "partName": "3/4in copper tee",
+      "partUnit": "EA",
+      "averageCost": "2.4100",
+      "partCost": "2.4100",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.100",
+      "costType": 1
+    },
+    {
+      "id": "a2792eee-eec4-4031-8093-b7b3e35e170e",
+      "recordNumber": 1004,
+      "partCode": "PL-103",
+      "partName": "1/2in copper tee",
+      "partUnit": "EA",
+      "averageCost": "1.5800",
+      "partCost": "1.5800",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.100",
+      "costType": 1
+    },
+    {
+      "id": "ae0e3f9a-4339-40cb-8b70-1e2be0edffc6",
+      "recordNumber": 1005,
+      "partCode": "PL-104",
+      "partName": "3/4in type L copper pipe, 10ft",
+      "partUnit": "EA",
+      "averageCost": "38.5000",
+      "partCost": "38.5000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.100",
+      "costType": 1
+    },
+    {
+      "id": "3be636e8-59b5-4b63-84ff-ade3a278cf72",
+      "recordNumber": 1006,
+      "partCode": "PL-105",
+      "partName": "1/2in type L copper pipe, 10ft",
+      "partUnit": "EA",
+      "averageCost": "24.9000",
+      "partCost": "24.9000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.100",
+      "costType": 1
+    },
+    {
+      "id": "72a888c5-c048-43b4-83a6-1cdeeaf0c9be",
+      "recordNumber": 1007,
+      "partCode": "PL-106",
+      "partName": "3/4in ball valve, lead free",
+      "partUnit": "EA",
+      "averageCost": "17.2500",
+      "partCost": "17.2500",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.100",
+      "costType": 1
+    },
+    {
+      "id": "0211109f-323a-437f-86ac-6603cf2e8139",
+      "recordNumber": 1008,
+      "partCode": "PL-107",
+      "partName": "1/2in ball valve, lead free",
+      "partUnit": "EA",
+      "averageCost": "12.8000",
+      "partCost": "12.8000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.100",
+      "costType": 1
+    },
+    {
+      "id": "214a87f1-6500-4613-8ecc-6dfca956779b",
+      "recordNumber": 1009,
+      "partCode": "PL-108",
+      "partName": "2in PVC sch 40 pipe, 10ft",
+      "partUnit": "EA",
+      "averageCost": "14.6000",
+      "partCost": "14.6000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.100",
+      "costType": 1
+    },
+    {
+      "id": "aabedf77-ff51-45eb-8bfc-33c1ecab87d9",
+      "recordNumber": 1010,
+      "partCode": "PL-109",
+      "partName": "2in PVC 90 elbow",
+      "partUnit": "EA",
+      "averageCost": "1.9500",
+      "partCost": "1.9500",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.100",
+      "costType": 1
+    },
+    {
+      "id": "d4a66393-ed5a-4e14-8e02-60be23fb21a0",
+      "recordNumber": 1011,
+      "partCode": "PL-110",
+      "partName": "3in PVC sanitary tee",
+      "partUnit": "EA",
+      "averageCost": "6.4000",
+      "partCost": "6.4000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.100",
+      "costType": 1
+    },
+    {
+      "id": "c9c25bf8-9cbb-4910-8939-439ad3e0b6ca",
+      "recordNumber": 1012,
+      "partCode": "PL-111",
+      "partName": "4in PVC cleanout adapter",
+      "partUnit": "EA",
+      "averageCost": "9.7500",
+      "partCost": "9.7500",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.100",
+      "costType": 1
+    },
+    {
+      "id": "c1e8d6dc-bed3-4b22-8ff0-14fdf4307825",
+      "recordNumber": 1013,
+      "partCode": "PL-112",
+      "partName": "PVC cement, 16oz",
+      "partUnit": "EA",
+      "averageCost": "11.3000",
+      "partCost": "11.3000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.100",
+      "costType": 1
+    },
+    {
+      "id": "73001a7c-b8b6-49fc-8fb9-c21ba6867111",
+      "recordNumber": 1014,
+      "partCode": "PL-113",
+      "partName": "PVC primer, 16oz",
+      "partUnit": "EA",
+      "averageCost": "9.1000",
+      "partCost": "9.1000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.100",
+      "costType": 1
+    },
+    {
+      "id": "553a200d-d0c5-46ec-80f3-a602cc3dd574",
+      "recordNumber": 1015,
+      "partCode": "PL-114",
+      "partName": "1/2in PEX-A tubing, 100ft",
+      "partUnit": "RL",
+      "averageCost": "62.0000",
+      "partCost": "62.0000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.100",
+      "costType": 1
+    },
+    {
+      "id": "4eda7ddd-cfb4-4b5d-82da-d7cd03309cad",
+      "recordNumber": 1016,
+      "partCode": "PL-115",
+      "partName": "3/4in PEX-A tubing, 100ft",
+      "partUnit": "RL",
+      "averageCost": "98.0000",
+      "partCost": "98.0000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.100",
+      "costType": 1
+    },
+    {
+      "id": "dd38768c-8673-4bc4-8498-f9599a92315a",
+      "recordNumber": 1017,
+      "partCode": "PL-116",
+      "partName": "1/2in PEX crimp ring",
+      "partUnit": "BX",
+      "averageCost": "18.4000",
+      "partCost": "18.4000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.100",
+      "costType": 1
+    },
+    {
+      "id": "da656220-761a-4671-8d44-136399cc7da1",
+      "recordNumber": 1018,
+      "partCode": "PL-117",
+      "partName": "Water heater flex connector, 18in",
+      "partUnit": "EA",
+      "averageCost": "13.6000",
+      "partCost": "13.6000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.100",
+      "costType": 1
+    },
+    {
+      "id": "9be9f4f0-14de-4b83-88c2-ca9f40b89ba0",
+      "recordNumber": 1019,
+      "partCode": "PL-118",
+      "partName": "Thermal expansion tank, 2 gal",
+      "partUnit": "EA",
+      "averageCost": "54.0000",
+      "partCost": "54.0000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.100",
+      "costType": 1
+    },
+    {
+      "id": "bfda93a9-70da-4f4b-8f99-337609cd1496",
+      "recordNumber": 1020,
+      "partCode": "PL-119",
+      "partName": "Floor drain, 3in",
+      "partUnit": "EA",
+      "averageCost": "42.7500",
+      "partCost": "42.7500",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.100",
+      "costType": 1
+    },
+    {
+      "id": "54156a88-69ef-47df-8a6a-040d13a342c4",
+      "recordNumber": 1021,
+      "partCode": "EL-120",
+      "partName": "12/2 NM-B cable, 250ft",
+      "partUnit": "RL",
+      "averageCost": "112.0000",
+      "partCost": "112.0000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "16.100",
+      "costType": 1
+    },
+    {
+      "id": "9c0decf1-20f7-448d-8bc0-19b146caa2ef",
+      "recordNumber": 1022,
+      "partCode": "EL-121",
+      "partName": "14/2 NM-B cable, 250ft",
+      "partUnit": "RL",
+      "averageCost": "84.5000",
+      "partCost": "84.5000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "16.100",
+      "costType": 1
+    },
+    {
+      "id": "9b2e25b6-7f78-4a12-82d5-f827808d631a",
+      "recordNumber": 1023,
+      "partCode": "EL-122",
+      "partName": "3/4in EMT conduit, 10ft",
+      "partUnit": "EA",
+      "averageCost": "8.9000",
+      "partCost": "8.9000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "16.100",
+      "costType": 1
+    },
+    {
+      "id": "62d0ebea-ad4a-4701-8108-135a33bcad24",
+      "recordNumber": 1024,
+      "partCode": "EL-123",
+      "partName": "1/2in EMT conduit, 10ft",
+      "partUnit": "EA",
+      "averageCost": "6.1000",
+      "partCost": "6.1000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "16.100",
+      "costType": 1
+    },
+    {
+      "id": "86968ed6-5fbe-43fe-8b9a-e277cbb904c8",
+      "recordNumber": 1025,
+      "partCode": "EL-124",
+      "partName": "3/4in EMT set-screw connector",
+      "partUnit": "EA",
+      "averageCost": "0.6200",
+      "partCost": "0.6200",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "16.100",
+      "costType": 1
+    },
+    {
+      "id": "08e0fa8d-ee0c-45b1-8614-556066cd079a",
+      "recordNumber": 1026,
+      "partCode": "EL-125",
+      "partName": "1/2in EMT set-screw coupling",
+      "partUnit": "EA",
+      "averageCost": "0.4800",
+      "partCost": "0.4800",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "16.100",
+      "costType": 1
+    },
+    {
+      "id": "21604a2f-e826-4b46-8463-039a0f11baa9",
+      "recordNumber": 1027,
+      "partCode": "EL-126",
+      "partName": "Single-gang device box",
+      "partUnit": "EA",
+      "averageCost": "2.3500",
+      "partCost": "2.3500",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "16.100",
+      "costType": 1
+    },
+    {
+      "id": "f0325530-28f2-48a2-8eab-fb267426caad",
+      "recordNumber": 1028,
+      "partCode": "EL-127",
+      "partName": "4in square box, 2-1/8in deep",
+      "partUnit": "EA",
+      "averageCost": "3.9000",
+      "partCost": "3.9000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "16.100",
+      "costType": 1
+    },
+    {
+      "id": "d805fabd-6c58-4080-8876-272810c8cdab",
+      "recordNumber": 1029,
+      "partCode": "EL-128",
+      "partName": "20A duplex receptacle",
+      "partUnit": "EA",
+      "averageCost": "2.7500",
+      "partCost": "2.7500",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "16.100",
+      "costType": 1
+    },
+    {
+      "id": "d6e55011-09a3-400b-8fed-fb89157889a8",
+      "recordNumber": 1030,
+      "partCode": "EL-129",
+      "partName": "20A GFCI receptacle",
+      "partUnit": "EA",
+      "averageCost": "18.9000",
+      "partCost": "18.9000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "16.100",
+      "costType": 1
+    },
+    {
+      "id": "b5d00af3-0307-4a96-8d0d-d753a14a19e0",
+      "recordNumber": 1031,
+      "partCode": "EL-130",
+      "partName": "Single-pole switch, 15A",
+      "partUnit": "EA",
+      "averageCost": "1.9000",
+      "partCost": "1.9000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "16.100",
+      "costType": 1
+    },
+    {
+      "id": "e390e949-586f-4dfe-8048-829369d51230",
+      "recordNumber": 1032,
+      "partCode": "EL-131",
+      "partName": "20A single-pole breaker",
+      "partUnit": "EA",
+      "averageCost": "9.8000",
+      "partCost": "9.8000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "16.100",
+      "costType": 1
+    },
+    {
+      "id": "ebad19d2-75ca-4f02-8dd9-187ba4116ead",
+      "recordNumber": 1033,
+      "partCode": "EL-132",
+      "partName": "Wire nut, yellow (100)",
+      "partUnit": "BX",
+      "averageCost": "7.6000",
+      "partCost": "7.6000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "16.100",
+      "costType": 1
+    },
+    {
+      "id": "edb5acb8-ab92-4eb3-852d-35dbb1ac0b62",
+      "recordNumber": 1034,
+      "partCode": "EL-133",
+      "partName": "THHN 12 AWG black, 500ft",
+      "partUnit": "RL",
+      "averageCost": "74.0000",
+      "partCost": "74.0000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "16.100",
+      "costType": 1
+    },
+    {
+      "id": "037f9a06-3f13-4a4f-823d-6f40d65eaba5",
+      "recordNumber": 1035,
+      "partCode": "EL-134",
+      "partName": "THHN 12 AWG white, 500ft",
+      "partUnit": "RL",
+      "averageCost": "74.0000",
+      "partCost": "74.0000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "16.100",
+      "costType": 1
+    },
+    {
+      "id": "eb08075b-70fe-4c89-88ad-5afbbdbd186f",
+      "recordNumber": 1036,
+      "partCode": "EL-135",
+      "partName": "LED wafer light, 6in",
+      "partUnit": "EA",
+      "averageCost": "15.4000",
+      "partCost": "15.4000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "16.100",
+      "costType": 1
+    },
+    {
+      "id": "2b5870a1-7102-49bd-8306-0ed8ffd3b8f4",
+      "recordNumber": 1037,
+      "partCode": "EL-136",
+      "partName": "Ceiling fan box, fan rated",
+      "partUnit": "EA",
+      "averageCost": "11.2000",
+      "partCost": "11.2000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "16.100",
+      "costType": 1
+    },
+    {
+      "id": "d2f67038-bd58-4c7f-8a77-550756c8e23c",
+      "recordNumber": 1038,
+      "partCode": "HV-137",
+      "partName": "MERV 13 filter, 20x20x2",
+      "partUnit": "EA",
+      "averageCost": "16.8000",
+      "partCost": "16.8000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.500",
+      "costType": 1
+    },
+    {
+      "id": "496a8516-7c1d-42e6-8987-906e7b7077f6",
+      "recordNumber": 1039,
+      "partCode": "HV-138",
+      "partName": "MERV 8 filter, 16x25x1",
+      "partUnit": "EA",
+      "averageCost": "5.4000",
+      "partCost": "5.4000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.500",
+      "costType": 1
+    },
+    {
+      "id": "6316c4f3-4e9e-4de6-8473-ba6c9f1da956",
+      "recordNumber": 1040,
+      "partCode": "HV-139",
+      "partName": "Flex duct, 6in x 25ft",
+      "partUnit": "EA",
+      "averageCost": "31.5000",
+      "partCost": "31.5000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.500",
+      "costType": 1
+    },
+    {
+      "id": "cf99c396-eae3-4cd1-8bda-028902d829a0",
+      "recordNumber": 1041,
+      "partCode": "HV-140",
+      "partName": "Flex duct, 8in x 25ft",
+      "partUnit": "EA",
+      "averageCost": "39.0000",
+      "partCost": "39.0000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.500",
+      "costType": 1
+    },
+    {
+      "id": "845598d2-e77e-4ad2-8f1c-6398b1e6ccb9",
+      "recordNumber": 1042,
+      "partCode": "HV-141",
+      "partName": "Duct tape, foil, 2.5in",
+      "partUnit": "RL",
+      "averageCost": "12.1000",
+      "partCost": "12.1000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.500",
+      "costType": 1
+    },
+    {
+      "id": "e27db45c-84a9-494e-8f3d-fd2325be0d70",
+      "recordNumber": 1043,
+      "partCode": "HV-142",
+      "partName": "Supply register, 10x6",
+      "partUnit": "EA",
+      "averageCost": "7.2500",
+      "partCost": "7.2500",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.500",
+      "costType": 1
+    },
+    {
+      "id": "06906647-b30f-4cbe-8635-0bff37963cc6",
+      "recordNumber": 1044,
+      "partCode": "HV-143",
+      "partName": "Return grille, 20x20",
+      "partUnit": "EA",
+      "averageCost": "21.9000",
+      "partCost": "21.9000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.500",
+      "costType": 1
+    },
+    {
+      "id": "0934e9e0-bab0-45c7-8e25-03ad1e7474c4",
+      "recordNumber": 1045,
+      "partCode": "HV-144",
+      "partName": "Condensate pump",
+      "partUnit": "EA",
+      "averageCost": "64.0000",
+      "partCost": "64.0000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.500",
+      "costType": 1
+    },
+    {
+      "id": "56234ff1-98a9-41ec-84cf-1bd65cfdee56",
+      "recordNumber": 1046,
+      "partCode": "HV-145",
+      "partName": "Refrigerant line set, 3/8 x 3/4, 25ft",
+      "partUnit": "EA",
+      "averageCost": "118.0000",
+      "partCost": "118.0000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.500",
+      "costType": 1
+    },
+    {
+      "id": "1610fdde-5a9c-431f-8fc2-f77a4f3016b5",
+      "recordNumber": 1047,
+      "partCode": "HV-146",
+      "partName": "Programmable thermostat",
+      "partUnit": "EA",
+      "averageCost": "72.5000",
+      "partCost": "72.5000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "15.500",
+      "costType": 1
+    },
+    {
+      "id": "bb0c32d7-2033-46ab-8944-3a110992a631",
+      "recordNumber": 1048,
+      "partCode": "GN-147",
+      "partName": "Disconnect, 60A non-fused",
+      "partUnit": "EA",
+      "averageCost": "23.4000",
+      "partCost": "23.4000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "1.900",
+      "costType": 1
+    },
+    {
+      "id": "2c8ebb23-336d-436b-881d-44539acc0123",
+      "recordNumber": 1049,
+      "partCode": "GN-148",
+      "partName": "Unistrut channel, 10ft",
+      "partUnit": "EA",
+      "averageCost": "27.8000",
+      "partCost": "27.8000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "1.900",
+      "costType": 1
+    },
+    {
+      "id": "ec2effda-aad7-4d24-8458-4142b27d32fe",
+      "recordNumber": 1050,
+      "partCode": "GN-149",
+      "partName": "Threaded rod, 3/8in x 10ft",
+      "partUnit": "EA",
+      "averageCost": "6.9000",
+      "partCost": "6.9000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "1.900",
+      "costType": 1
+    },
+    {
+      "id": "f52724a7-3458-4c70-8c19-40cb3b72ed4b",
+      "recordNumber": 1051,
+      "partCode": "GN-150",
+      "partName": "Beam clamp, 3/8in",
+      "partUnit": "EA",
+      "averageCost": "1.7500",
+      "partCost": "1.7500",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "1.900",
+      "costType": 1
+    },
+    {
+      "id": "78bc1bfd-2fbe-445f-85af-da13f5073b40",
+      "recordNumber": 1052,
+      "partCode": "GN-151",
+      "partName": "Pipe hanger, 3/4in clevis",
+      "partUnit": "EA",
+      "averageCost": "2.2000",
+      "partCost": "2.2000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "1.900",
+      "costType": 1
+    },
+    {
+      "id": "88406dcd-65d5-413a-8ac5-924d976f528f",
+      "recordNumber": 1053,
+      "partCode": "GN-152",
+      "partName": "Firestop sealant, 10oz",
+      "partUnit": "EA",
+      "averageCost": "19.6000",
+      "partCost": "19.6000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "1.900",
+      "costType": 1
+    },
+    {
+      "id": "e7c39d63-bf56-4ec2-857d-9daa95a23a2b",
+      "recordNumber": 1054,
+      "partCode": "GN-153",
+      "partName": "Silicone sealant, clear",
+      "partUnit": "EA",
+      "averageCost": "7.4000",
+      "partCost": "7.4000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "1.900",
+      "costType": 1
+    },
+    {
+      "id": "acc3842d-be7a-4de6-81da-752d6d29137c",
+      "recordNumber": 1055,
+      "partCode": "GN-154",
+      "partName": "Drywall screw, 1-5/8in (5lb)",
+      "partUnit": "BX",
+      "averageCost": "24.0000",
+      "partCost": "24.0000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "1.900",
+      "costType": 1
+    },
+    {
+      "id": "d8ea5bde-9e21-4fb3-8fee-d27ad5e8b84a",
+      "recordNumber": 1056,
+      "partCode": "GN-155",
+      "partName": "Concrete anchor, 3/8 x 3in",
+      "partUnit": "EA",
+      "averageCost": "0.9500",
+      "partCost": "0.9500",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "1.900",
+      "costType": 1
+    },
+    {
+      "id": "b7e817f3-719e-410d-8087-1983b9d2fb48",
+      "recordNumber": 1057,
+      "partCode": "GN-156",
+      "partName": "Safety glasses, clear",
+      "partUnit": "EA",
+      "averageCost": "3.4000",
+      "partCost": "3.4000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "1.900",
+      "costType": 1
+    },
+    {
+      "id": "bcfd0967-0e26-4bff-8c1a-d4de0cc7fd02",
+      "recordNumber": 1058,
+      "partCode": "GN-157",
+      "partName": "Nitrile gloves, L (100)",
+      "partUnit": "BX",
+      "averageCost": "14.5000",
+      "partCost": "14.5000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "1.900",
+      "costType": 1
+    },
+    {
+      "id": "de15a9ac-2662-4f68-818a-1b59b1527eac",
+      "recordNumber": 1059,
+      "partCode": "GN-158",
+      "partName": "Tape measure, 25ft",
+      "partUnit": "EA",
+      "averageCost": "16.0000",
+      "partCost": "16.0000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "1.900",
+      "costType": 1
+    },
+    {
+      "id": "7ce66c1f-95db-4d11-8540-d309aeca39df",
+      "recordNumber": 1060,
+      "partCode": "GN-159",
+      "partName": "Teflon tape, 1/2in",
+      "partUnit": "RL",
+      "averageCost": "0.8500",
+      "partCost": "0.8500",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "1.900",
+      "costType": 1
+    },
+    {
+      "id": "7096787c-0214-4573-8c4c-45784dbc60dc",
+      "recordNumber": 1061,
+      "partCode": "GN-160",
+      "partName": "Pipe dope, 8oz",
+      "partUnit": "EA",
+      "averageCost": "8.6000",
+      "partCost": "8.6000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "1.900",
+      "costType": 1
+    },
+    {
+      "id": "6662e783-ce74-4d8f-88fe-69099abc49a0",
+      "recordNumber": 1062,
+      "partCode": "GN-161",
+      "partName": "Hose bib, frost free 10in",
+      "partUnit": "EA",
+      "averageCost": "28.5000",
+      "partCost": "28.5000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "1.900",
+      "costType": 1
+    },
+    {
+      "id": "4ac194fe-7dc8-4a6b-8c4c-beb13e23ae20",
+      "recordNumber": 1063,
+      "partCode": "GN-162",
+      "partName": "Toilet wax ring",
+      "partUnit": "EA",
+      "averageCost": "4.2000",
+      "partCost": "4.2000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "1.900",
+      "costType": 1
+    },
+    {
+      "id": "6e4b4a2c-c0e3-4d82-8682-7b02582d58fe",
+      "recordNumber": 1064,
+      "partCode": "GN-163",
+      "partName": "P-trap, 1-1/2in PVC",
+      "partUnit": "EA",
+      "averageCost": "6.8000",
+      "partCost": "6.8000",
+      "stockItem": true,
+      "serialized": 0,
+      "isInactive": 0,
+      "costCode": "1.900",
+      "costType": 1
+    }
+  ],
+  "inventory-locations": [
+    {
+      "id": "bd5563c1-1ecb-4703-8b46-ac685544d59f",
+      "recordNumber": 1,
+      "locationName": "Main warehouse"
+    },
+    {
+      "id": "8fbe41e4-eb71-4caf-8a9c-c13446d71222",
+      "recordNumber": 2,
+      "locationName": "Pipe yard"
+    },
+    {
+      "id": "b005229c-f731-4717-8209-7347e6917c5e",
+      "recordNumber": 3,
+      "locationName": "Service van 1"
+    },
+    {
+      "id": "619fdda3-2241-41a8-8ff0-e1c915d101a6",
+      "recordNumber": 4,
+      "locationName": "Service van 2"
+    },
+    {
+      "id": "13548d32-d3d3-4ca3-8b05-9df106a8a72d",
+      "recordNumber": 5,
+      "locationName": "Job trailer, east"
+    },
+    {
+      "id": "998deb3c-c26d-49f9-80de-aa6462cef694",
+      "recordNumber": 6,
+      "locationName": "Returns and damaged"
+    }
+  ],
+  "inventory-quantities": [
+    {
+      "id": "2b153b52-8bf5-4ef7-8fb2-de2bc71931d6",
+      "idRef": "0e43b85c-c8aa-4d35-8bb0-a7ec18eba9ee",
+      "partRecordNumber": 1001,
+      "locationNumber": 1,
+      "quantityOnHand": "47.0000",
+      "quantityAvailable": "40.0000"
+    },
+    {
+      "id": "22ce430b-f275-4a29-8a2a-b897d2b50c41",
+      "idRef": "55d52464-e8be-4048-8863-e055ae826456",
+      "partRecordNumber": 1002,
+      "locationNumber": 1,
+      "quantityOnHand": "121.0000",
+      "quantityAvailable": "100.0000"
+    },
+    {
+      "id": "4ac586e3-2d9a-4886-8808-b42cb2f68c13",
+      "idRef": "5893e7da-a88b-4f6b-8495-56ce1d1621f3",
+      "partRecordNumber": 1003,
+      "locationNumber": 1,
+      "quantityOnHand": "116.0000",
+      "quantityAvailable": "107.0000"
+    },
+    {
+      "id": "9b8c5484-7ff7-44d9-848b-1fb710633a88",
+      "idRef": "a2792eee-eec4-4031-8093-b7b3e35e170e",
+      "partRecordNumber": 1004,
+      "locationNumber": 1,
+      "quantityOnHand": "53.0000",
+      "quantityAvailable": "45.0000"
+    },
+    {
+      "id": "204b6d50-94ce-440d-8b86-5f3180c15491",
+      "idRef": "a2792eee-eec4-4031-8093-b7b3e35e170e",
+      "partRecordNumber": 1004,
+      "locationNumber": 2,
+      "quantityOnHand": "17.0000",
+      "quantityAvailable": "14.0000"
+    },
+    {
+      "id": "39ace349-8843-42ed-82ab-63c952c3d6ab",
+      "idRef": "a2792eee-eec4-4031-8093-b7b3e35e170e",
+      "partRecordNumber": 1004,
+      "locationNumber": 3,
+      "quantityOnHand": "9.0000",
+      "quantityAvailable": "7.0000"
+    },
+    {
+      "id": "b787a7fb-a2de-4f90-8812-f07eacaaeef5",
+      "idRef": "a2792eee-eec4-4031-8093-b7b3e35e170e",
+      "partRecordNumber": 1004,
+      "locationNumber": 4,
+      "quantityOnHand": "21.0000",
+      "quantityAvailable": "16.0000"
+    },
+    {
+      "id": "b76283f6-ba2d-40dc-8faf-bc5f74a1636a",
+      "idRef": "ae0e3f9a-4339-40cb-8b70-1e2be0edffc6",
+      "partRecordNumber": 1005,
+      "locationNumber": 1,
+      "quantityOnHand": "29.0000",
+      "quantityAvailable": "25.0000"
+    },
+    {
+      "id": "dbd9f12a-c9c9-4da4-85ee-0e4d6da5d528",
+      "idRef": "3be636e8-59b5-4b63-84ff-ade3a278cf72",
+      "partRecordNumber": 1006,
+      "locationNumber": 1,
+      "quantityOnHand": "181.0000",
+      "quantityAvailable": "158.0000"
+    },
+    {
+      "id": "e8d1fc90-dc5d-429a-826e-c94e4ae00956",
+      "idRef": "3be636e8-59b5-4b63-84ff-ade3a278cf72",
+      "partRecordNumber": 1006,
+      "locationNumber": 3,
+      "quantityOnHand": "27.0000",
+      "quantityAvailable": "23.0000"
+    },
+    {
+      "id": "5912a047-276f-4883-884c-3c20e2899875",
+      "idRef": "3be636e8-59b5-4b63-84ff-ade3a278cf72",
+      "partRecordNumber": 1006,
+      "locationNumber": 4,
+      "quantityOnHand": "25.0000",
+      "quantityAvailable": "23.0000"
+    },
+    {
+      "id": "76a96186-008f-4c9c-85a4-965d79af516f",
+      "idRef": "72a888c5-c048-43b4-83a6-1cdeeaf0c9be",
+      "partRecordNumber": 1007,
+      "locationNumber": 1,
+      "quantityOnHand": "106.0000",
+      "quantityAvailable": "82.0000"
+    },
+    {
+      "id": "4d7f5162-24be-4179-8d24-0b646c041619",
+      "idRef": "0211109f-323a-437f-86ac-6603cf2e8139",
+      "partRecordNumber": 1008,
+      "locationNumber": 1,
+      "quantityOnHand": "85.0000",
+      "quantityAvailable": "75.0000"
+    },
+    {
+      "id": "8460ef52-5651-4b92-809a-b1921a989dcf",
+      "idRef": "0211109f-323a-437f-86ac-6603cf2e8139",
+      "partRecordNumber": 1008,
+      "locationNumber": 4,
+      "quantityOnHand": "18.0000",
+      "quantityAvailable": "14.0000"
+    },
+    {
+      "id": "b0c7cb67-a293-49bc-8238-7608c3bd5f55",
+      "idRef": "214a87f1-6500-4613-8ecc-6dfca956779b",
+      "partRecordNumber": 1009,
+      "locationNumber": 1,
+      "quantityOnHand": "133.0000",
+      "quantityAvailable": "110.0000"
+    },
+    {
+      "id": "b6067e0b-cf26-433a-849d-d46a8e1a0d7e",
+      "idRef": "214a87f1-6500-4613-8ecc-6dfca956779b",
+      "partRecordNumber": 1009,
+      "locationNumber": 2,
+      "quantityOnHand": "27.0000",
+      "quantityAvailable": "21.0000"
+    },
+    {
+      "id": "5ec8fffc-007d-4cf1-86d1-d6e517a870ea",
+      "idRef": "214a87f1-6500-4613-8ecc-6dfca956779b",
+      "partRecordNumber": 1009,
+      "locationNumber": 3,
+      "quantityOnHand": "5.0000",
+      "quantityAvailable": "4.0000"
+    },
+    {
+      "id": "1095caa5-c991-4e4f-81c8-81c69fef70e6",
+      "idRef": "aabedf77-ff51-45eb-8bfc-33c1ecab87d9",
+      "partRecordNumber": 1010,
+      "locationNumber": 1,
+      "quantityOnHand": "43.0000",
+      "quantityAvailable": "36.0000"
+    },
+    {
+      "id": "bb98db11-0343-46ed-8525-5c6d7f380818",
+      "idRef": "aabedf77-ff51-45eb-8bfc-33c1ecab87d9",
+      "partRecordNumber": 1010,
+      "locationNumber": 4,
+      "quantityOnHand": "8.0000",
+      "quantityAvailable": "8.0000"
+    },
+    {
+      "id": "fa6b55a9-9647-48d8-8b78-4e42f718c14e",
+      "idRef": "d4a66393-ed5a-4e14-8e02-60be23fb21a0",
+      "partRecordNumber": 1011,
+      "locationNumber": 1,
+      "quantityOnHand": "96.0000",
+      "quantityAvailable": "80.0000"
+    },
+    {
+      "id": "148b6a3a-3ef0-4c90-8f3c-46014da22d12",
+      "idRef": "d4a66393-ed5a-4e14-8e02-60be23fb21a0",
+      "partRecordNumber": 1011,
+      "locationNumber": 2,
+      "quantityOnHand": "2.0000",
+      "quantityAvailable": "2.0000"
+    },
+    {
+      "id": "6c3e6e73-33c4-43aa-8217-16bc7fb5094b",
+      "idRef": "d4a66393-ed5a-4e14-8e02-60be23fb21a0",
+      "partRecordNumber": 1011,
+      "locationNumber": 3,
+      "quantityOnHand": "9.0000",
+      "quantityAvailable": "7.0000"
+    },
+    {
+      "id": "9793a902-06d7-4caa-8cff-6c5f40c92f37",
+      "idRef": "d4a66393-ed5a-4e14-8e02-60be23fb21a0",
+      "partRecordNumber": 1011,
+      "locationNumber": 4,
+      "quantityOnHand": "16.0000",
+      "quantityAvailable": "16.0000"
+    },
+    {
+      "id": "aab02a26-40d2-41dc-8d8d-5d2e4ffaff5b",
+      "idRef": "c9c25bf8-9cbb-4910-8939-439ad3e0b6ca",
+      "partRecordNumber": 1012,
+      "locationNumber": 1,
+      "quantityOnHand": "25.0000",
+      "quantityAvailable": "25.0000"
+    },
+    {
+      "id": "6b45f8f7-0434-45c9-8090-defbbb617953",
+      "idRef": "c9c25bf8-9cbb-4910-8939-439ad3e0b6ca",
+      "partRecordNumber": 1012,
+      "locationNumber": 4,
+      "quantityOnHand": "7.0000",
+      "quantityAvailable": "7.0000"
+    },
+    {
+      "id": "56e51399-2cb7-4b1b-8192-0d63f676aeed",
+      "idRef": "c1e8d6dc-bed3-4b22-8ff0-14fdf4307825",
+      "partRecordNumber": 1013,
+      "locationNumber": 1,
+      "quantityOnHand": "41.0000",
+      "quantityAvailable": "40.0000"
+    },
+    {
+      "id": "357bed64-b726-4140-89d6-176cdaa28eb9",
+      "idRef": "c1e8d6dc-bed3-4b22-8ff0-14fdf4307825",
+      "partRecordNumber": 1013,
+      "locationNumber": 2,
+      "quantityOnHand": "9.0000",
+      "quantityAvailable": "8.0000"
+    },
+    {
+      "id": "8b991658-49f4-4e46-87d4-bcd38c155fcb",
+      "idRef": "c1e8d6dc-bed3-4b22-8ff0-14fdf4307825",
+      "partRecordNumber": 1013,
+      "locationNumber": 4,
+      "quantityOnHand": "10.0000",
+      "quantityAvailable": "9.0000"
+    },
+    {
+      "id": "7e30b711-7034-4e0a-8012-516b2d3d77c1",
+      "idRef": "73001a7c-b8b6-49fc-8fb9-c21ba6867111",
+      "partRecordNumber": 1014,
+      "locationNumber": 1,
+      "quantityOnHand": "107.0000",
+      "quantityAvailable": "102.0000"
+    },
+    {
+      "id": "511ece10-15aa-45d4-87f3-fa669ed3ae6c",
+      "idRef": "73001a7c-b8b6-49fc-8fb9-c21ba6867111",
+      "partRecordNumber": 1014,
+      "locationNumber": 2,
+      "quantityOnHand": "1.0000",
+      "quantityAvailable": "1.0000"
+    },
+    {
+      "id": "8049cc17-d70a-4e27-8c0e-8d3480941f04",
+      "idRef": "73001a7c-b8b6-49fc-8fb9-c21ba6867111",
+      "partRecordNumber": 1014,
+      "locationNumber": 4,
+      "quantityOnHand": "14.0000",
+      "quantityAvailable": "12.0000"
+    },
+    {
+      "id": "0789694f-09d8-4e9b-8913-6a8adb54e602",
+      "idRef": "73001a7c-b8b6-49fc-8fb9-c21ba6867111",
+      "partRecordNumber": 1014,
+      "locationNumber": 5,
+      "quantityOnHand": "15.0000",
+      "quantityAvailable": "13.0000"
+    },
+    {
+      "id": "056a4db8-835a-4fb1-8f3d-924596b63d77",
+      "idRef": "553a200d-d0c5-46ec-80f3-a602cc3dd574",
+      "partRecordNumber": 1015,
+      "locationNumber": 1,
+      "quantityOnHand": "54.0000",
+      "quantityAvailable": "46.0000"
+    },
+    {
+      "id": "b3021e0b-7069-437c-8364-047511cc0f02",
+      "idRef": "553a200d-d0c5-46ec-80f3-a602cc3dd574",
+      "partRecordNumber": 1015,
+      "locationNumber": 2,
+      "quantityOnHand": "28.0000",
+      "quantityAvailable": "27.0000"
+    },
+    {
+      "id": "cbeac112-2eb3-4cfe-8e4c-3ce01beaf246",
+      "idRef": "4eda7ddd-cfb4-4b5d-82da-d7cd03309cad",
+      "partRecordNumber": 1016,
+      "locationNumber": 1,
+      "quantityOnHand": "190.0000",
+      "quantityAvailable": "148.0000"
+    },
+    {
+      "id": "f685f50c-e4cf-48f9-8b65-5f194ab79506",
+      "idRef": "4eda7ddd-cfb4-4b5d-82da-d7cd03309cad",
+      "partRecordNumber": 1016,
+      "locationNumber": 3,
+      "quantityOnHand": "18.0000",
+      "quantityAvailable": "14.0000"
+    },
+    {
+      "id": "9b5990d8-8264-49ce-83f5-789e7b3177d6",
+      "idRef": "dd38768c-8673-4bc4-8498-f9599a92315a",
+      "partRecordNumber": 1017,
+      "locationNumber": 1,
+      "quantityOnHand": "32.0000",
+      "quantityAvailable": "30.0000"
+    },
+    {
+      "id": "b3ed8cd0-0d78-4605-819e-bf79a0ed66ea",
+      "idRef": "dd38768c-8673-4bc4-8498-f9599a92315a",
+      "partRecordNumber": 1017,
+      "locationNumber": 2,
+      "quantityOnHand": "10.0000",
+      "quantityAvailable": "8.0000"
+    },
+    {
+      "id": "8a51deca-3129-4c47-8a44-20464ef7bff8",
+      "idRef": "dd38768c-8673-4bc4-8498-f9599a92315a",
+      "partRecordNumber": 1017,
+      "locationNumber": 4,
+      "quantityOnHand": "4.0000",
+      "quantityAvailable": "3.0000"
+    },
+    {
+      "id": "3a7f67ed-6be0-4e53-867d-df870a06a7ae",
+      "idRef": "da656220-761a-4671-8d44-136399cc7da1",
+      "partRecordNumber": 1018,
+      "locationNumber": 1,
+      "quantityOnHand": "161.0000",
+      "quantityAvailable": "140.0000"
+    },
+    {
+      "id": "8a9467a5-0b5e-4fef-858e-2c763fa620f9",
+      "idRef": "da656220-761a-4671-8d44-136399cc7da1",
+      "partRecordNumber": 1018,
+      "locationNumber": 2,
+      "quantityOnHand": "20.0000",
+      "quantityAvailable": "17.0000"
+    },
+    {
+      "id": "17db705f-9829-445b-8d9b-3be92c4e3e44",
+      "idRef": "da656220-761a-4671-8d44-136399cc7da1",
+      "partRecordNumber": 1018,
+      "locationNumber": 3,
+      "quantityOnHand": "17.0000",
+      "quantityAvailable": "15.0000"
+    },
+    {
+      "id": "a3aadd08-2585-4111-85c1-2f4df91e41f8",
+      "idRef": "da656220-761a-4671-8d44-136399cc7da1",
+      "partRecordNumber": 1018,
+      "locationNumber": 4,
+      "quantityOnHand": "9.0000",
+      "quantityAvailable": "9.0000"
+    },
+    {
+      "id": "af704aca-f7a1-41de-81c5-30b9a69ddf59",
+      "idRef": "9be9f4f0-14de-4b83-88c2-ca9f40b89ba0",
+      "partRecordNumber": 1019,
+      "locationNumber": 1,
+      "quantityOnHand": "36.0000",
+      "quantityAvailable": "32.0000"
+    },
+    {
+      "id": "8b8639b5-3c35-4e76-8426-fd0568b2d8d9",
+      "idRef": "9be9f4f0-14de-4b83-88c2-ca9f40b89ba0",
+      "partRecordNumber": 1019,
+      "locationNumber": 2,
+      "quantityOnHand": "1.0000",
+      "quantityAvailable": "1.0000"
+    },
+    {
+      "id": "1c233218-5f76-453b-87de-6fd3cf8bc85e",
+      "idRef": "9be9f4f0-14de-4b83-88c2-ca9f40b89ba0",
+      "partRecordNumber": 1019,
+      "locationNumber": 3,
+      "quantityOnHand": "4.0000",
+      "quantityAvailable": "4.0000"
+    },
+    {
+      "id": "bf095e4f-0a37-440b-81e3-f11a0a9341da",
+      "idRef": "9be9f4f0-14de-4b83-88c2-ca9f40b89ba0",
+      "partRecordNumber": 1019,
+      "locationNumber": 4,
+      "quantityOnHand": "29.0000",
+      "quantityAvailable": "28.0000"
+    },
+    {
+      "id": "1c3968c1-b75b-48ac-87a8-04a213942aaa",
+      "idRef": "bfda93a9-70da-4f4b-8f99-337609cd1496",
+      "partRecordNumber": 1020,
+      "locationNumber": 1,
+      "quantityOnHand": "75.0000",
+      "quantityAvailable": "62.0000"
+    },
+    {
+      "id": "fa24586c-66d0-4f75-8e13-fa7699a6128b",
+      "idRef": "bfda93a9-70da-4f4b-8f99-337609cd1496",
+      "partRecordNumber": 1020,
+      "locationNumber": 2,
+      "quantityOnHand": "23.0000",
+      "quantityAvailable": "20.0000"
+    },
+    {
+      "id": "ea4bdfae-151b-4b6c-813e-032fe9762e68",
+      "idRef": "bfda93a9-70da-4f4b-8f99-337609cd1496",
+      "partRecordNumber": 1020,
+      "locationNumber": 4,
+      "quantityOnHand": "2.0000",
+      "quantityAvailable": "2.0000"
+    },
+    {
+      "id": "007b6d3c-3987-4052-8fc8-9df251c6e0d9",
+      "idRef": "54156a88-69ef-47df-8a6a-040d13a342c4",
+      "partRecordNumber": 1021,
+      "locationNumber": 1,
+      "quantityOnHand": "33.0000",
+      "quantityAvailable": "28.0000"
+    },
+    {
+      "id": "32af6a33-f99d-443a-88ae-e5fa5e2ec763",
+      "idRef": "54156a88-69ef-47df-8a6a-040d13a342c4",
+      "partRecordNumber": 1021,
+      "locationNumber": 2,
+      "quantityOnHand": "7.0000",
+      "quantityAvailable": "6.0000"
+    },
+    {
+      "id": "76060349-5006-45e1-8114-ba9599564681",
+      "idRef": "54156a88-69ef-47df-8a6a-040d13a342c4",
+      "partRecordNumber": 1021,
+      "locationNumber": 4,
+      "quantityOnHand": "19.0000",
+      "quantityAvailable": "16.0000"
+    },
+    {
+      "id": "0d3409b3-f575-4dce-8b3e-0baf0cf65593",
+      "idRef": "9c0decf1-20f7-448d-8bc0-19b146caa2ef",
+      "partRecordNumber": 1022,
+      "locationNumber": 1,
+      "quantityOnHand": "105.0000",
+      "quantityAvailable": "100.0000"
+    },
+    {
+      "id": "311ffcaa-0187-45fa-83f7-5be45b7b2f79",
+      "idRef": "9c0decf1-20f7-448d-8bc0-19b146caa2ef",
+      "partRecordNumber": 1022,
+      "locationNumber": 3,
+      "quantityOnHand": "10.0000",
+      "quantityAvailable": "8.0000"
+    },
+    {
+      "id": "4848a8fc-6d98-4edf-8e3d-19e4f4f5e3d4",
+      "idRef": "9c0decf1-20f7-448d-8bc0-19b146caa2ef",
+      "partRecordNumber": 1022,
+      "locationNumber": 4,
+      "quantityOnHand": "19.0000",
+      "quantityAvailable": "16.0000"
+    },
+    {
+      "id": "49cd110b-4fa3-4994-8e6b-b0816e1e91c0",
+      "idRef": "9b2e25b6-7f78-4a12-82d5-f827808d631a",
+      "partRecordNumber": 1023,
+      "locationNumber": 1,
+      "quantityOnHand": "69.0000",
+      "quantityAvailable": "56.0000"
+    },
+    {
+      "id": "21a6b354-55ee-4356-8d37-9880b0cbaa7f",
+      "idRef": "9b2e25b6-7f78-4a12-82d5-f827808d631a",
+      "partRecordNumber": 1023,
+      "locationNumber": 2,
+      "quantityOnHand": "0.0000",
+      "quantityAvailable": "0.0000"
+    },
+    {
+      "id": "9174d381-50f4-41ac-863f-988435d40b0e",
+      "idRef": "9b2e25b6-7f78-4a12-82d5-f827808d631a",
+      "partRecordNumber": 1023,
+      "locationNumber": 4,
+      "quantityOnHand": "21.0000",
+      "quantityAvailable": "20.0000"
+    },
+    {
+      "id": "23128307-7808-4878-8014-9b260d826647",
+      "idRef": "9b2e25b6-7f78-4a12-82d5-f827808d631a",
+      "partRecordNumber": 1023,
+      "locationNumber": 5,
+      "quantityOnHand": "11.0000",
+      "quantityAvailable": "10.0000"
+    },
+    {
+      "id": "561f9f4b-497b-4dfa-87d6-022c2072ec22",
+      "idRef": "62d0ebea-ad4a-4701-8108-135a33bcad24",
+      "partRecordNumber": 1024,
+      "locationNumber": 1,
+      "quantityOnHand": "159.0000",
+      "quantityAvailable": "154.0000"
+    },
+    {
+      "id": "3e3530cc-0a0e-4c8b-87dd-963fbcc3e99b",
+      "idRef": "62d0ebea-ad4a-4701-8108-135a33bcad24",
+      "partRecordNumber": 1024,
+      "locationNumber": 3,
+      "quantityOnHand": "11.0000",
+      "quantityAvailable": "8.0000"
+    },
+    {
+      "id": "46c81d06-ade9-480a-82df-9a87ea87eb91",
+      "idRef": "62d0ebea-ad4a-4701-8108-135a33bcad24",
+      "partRecordNumber": 1024,
+      "locationNumber": 5,
+      "quantityOnHand": "20.0000",
+      "quantityAvailable": "17.0000"
+    },
+    {
+      "id": "d93eb3b1-f039-45a5-899e-da358f5e281d",
+      "idRef": "86968ed6-5fbe-43fe-8b9a-e277cbb904c8",
+      "partRecordNumber": 1025,
+      "locationNumber": 1,
+      "quantityOnHand": "29.0000",
+      "quantityAvailable": "24.0000"
+    },
+    {
+      "id": "5791119c-0d6d-4a8c-8da0-c2692e41a76d",
+      "idRef": "86968ed6-5fbe-43fe-8b9a-e277cbb904c8",
+      "partRecordNumber": 1025,
+      "locationNumber": 2,
+      "quantityOnHand": "29.0000",
+      "quantityAvailable": "28.0000"
+    },
+    {
+      "id": "0ff9f6d7-79d5-4b50-8dcf-25288a197a84",
+      "idRef": "86968ed6-5fbe-43fe-8b9a-e277cbb904c8",
+      "partRecordNumber": 1025,
+      "locationNumber": 3,
+      "quantityOnHand": "20.0000",
+      "quantityAvailable": "17.0000"
+    },
+    {
+      "id": "5a977760-9585-4ffb-84d9-932063f39ed6",
+      "idRef": "08e0fa8d-ee0c-45b1-8614-556066cd079a",
+      "partRecordNumber": 1026,
+      "locationNumber": 1,
+      "quantityOnHand": "31.0000",
+      "quantityAvailable": "28.0000"
+    },
+    {
+      "id": "0e389a41-c574-4b38-85c5-80e980948f96",
+      "idRef": "08e0fa8d-ee0c-45b1-8614-556066cd079a",
+      "partRecordNumber": 1026,
+      "locationNumber": 2,
+      "quantityOnHand": "18.0000",
+      "quantityAvailable": "16.0000"
+    },
+    {
+      "id": "8dcd298f-70c4-4c68-8c87-303b22629152",
+      "idRef": "21604a2f-e826-4b46-8463-039a0f11baa9",
+      "partRecordNumber": 1027,
+      "locationNumber": 1,
+      "quantityOnHand": "98.0000",
+      "quantityAvailable": "77.0000"
+    },
+    {
+      "id": "b5cef7b9-10e4-438d-89f6-b3f2a9ceaded",
+      "idRef": "21604a2f-e826-4b46-8463-039a0f11baa9",
+      "partRecordNumber": 1027,
+      "locationNumber": 2,
+      "quantityOnHand": "13.0000",
+      "quantityAvailable": "11.0000"
+    },
+    {
+      "id": "4b2f7033-a54a-48f9-80bb-ac3699d2d3c5",
+      "idRef": "21604a2f-e826-4b46-8463-039a0f11baa9",
+      "partRecordNumber": 1027,
+      "locationNumber": 3,
+      "quantityOnHand": "13.0000",
+      "quantityAvailable": "12.0000"
+    },
+    {
+      "id": "c8812dcd-24ff-4ef3-8c91-10e5b422ae00",
+      "idRef": "21604a2f-e826-4b46-8463-039a0f11baa9",
+      "partRecordNumber": 1027,
+      "locationNumber": 4,
+      "quantityOnHand": "11.0000",
+      "quantityAvailable": "11.0000"
+    },
+    {
+      "id": "060ce9a5-f481-4991-8e52-a006f2ca4efe",
+      "idRef": "21604a2f-e826-4b46-8463-039a0f11baa9",
+      "partRecordNumber": 1027,
+      "locationNumber": 5,
+      "quantityOnHand": "14.0000",
+      "quantityAvailable": "12.0000"
+    },
+    {
+      "id": "bb04fdcd-4497-4f86-8c99-3245289f0773",
+      "idRef": "f0325530-28f2-48a2-8eab-fb267426caad",
+      "partRecordNumber": 1028,
+      "locationNumber": 1,
+      "quantityOnHand": "193.0000",
+      "quantityAvailable": "189.0000"
+    },
+    {
+      "id": "66aaecc8-1727-4749-86f4-b56fc382c655",
+      "idRef": "f0325530-28f2-48a2-8eab-fb267426caad",
+      "partRecordNumber": 1028,
+      "locationNumber": 4,
+      "quantityOnHand": "5.0000",
+      "quantityAvailable": "5.0000"
+    },
+    {
+      "id": "f4e6107f-ae8c-450d-8808-12edf1c2b0ec",
+      "idRef": "f0325530-28f2-48a2-8eab-fb267426caad",
+      "partRecordNumber": 1028,
+      "locationNumber": 5,
+      "quantityOnHand": "14.0000",
+      "quantityAvailable": "11.0000"
+    },
+    {
+      "id": "438d97ca-0056-4dcc-8064-037fa5d9385b",
+      "idRef": "d805fabd-6c58-4080-8876-272810c8cdab",
+      "partRecordNumber": 1029,
+      "locationNumber": 1,
+      "quantityOnHand": "126.0000",
+      "quantityAvailable": "124.0000"
+    },
+    {
+      "id": "f55ae975-9395-47b3-8280-514a8be82732",
+      "idRef": "d805fabd-6c58-4080-8876-272810c8cdab",
+      "partRecordNumber": 1029,
+      "locationNumber": 5,
+      "quantityOnHand": "18.0000",
+      "quantityAvailable": "15.0000"
+    },
+    {
+      "id": "a9b829ac-0f11-49d9-8fcd-c5b174713e8c",
+      "idRef": "d6e55011-09a3-400b-8fed-fb89157889a8",
+      "partRecordNumber": 1030,
+      "locationNumber": 1,
+      "quantityOnHand": "112.0000",
+      "quantityAvailable": "85.0000"
+    },
+    {
+      "id": "9bfcab9c-967b-41a4-8632-ce43d69ce106",
+      "idRef": "d6e55011-09a3-400b-8fed-fb89157889a8",
+      "partRecordNumber": 1030,
+      "locationNumber": 5,
+      "quantityOnHand": "17.0000",
+      "quantityAvailable": "17.0000"
+    },
+    {
+      "id": "5a727b4d-c011-492b-8591-26a0b68d8214",
+      "idRef": "b5d00af3-0307-4a96-8d0d-d753a14a19e0",
+      "partRecordNumber": 1031,
+      "locationNumber": 1,
+      "quantityOnHand": "170.0000",
+      "quantityAvailable": "149.0000"
+    },
+    {
+      "id": "2e227d18-4965-481c-8bef-77f853654d08",
+      "idRef": "b5d00af3-0307-4a96-8d0d-d753a14a19e0",
+      "partRecordNumber": 1031,
+      "locationNumber": 3,
+      "quantityOnHand": "12.0000",
+      "quantityAvailable": "10.0000"
+    },
+    {
+      "id": "094865c4-8b79-47d0-8664-4698d3587ad9",
+      "idRef": "b5d00af3-0307-4a96-8d0d-d753a14a19e0",
+      "partRecordNumber": 1031,
+      "locationNumber": 4,
+      "quantityOnHand": "5.0000",
+      "quantityAvailable": "5.0000"
+    },
+    {
+      "id": "288fe6e9-6bb6-47a1-8f9a-7ab900b2fbe3",
+      "idRef": "b5d00af3-0307-4a96-8d0d-d753a14a19e0",
+      "partRecordNumber": 1031,
+      "locationNumber": 5,
+      "quantityOnHand": "5.0000",
+      "quantityAvailable": "5.0000"
+    },
+    {
+      "id": "311b86fe-bf11-4a85-8cd6-3f86584fd8a3",
+      "idRef": "e390e949-586f-4dfe-8048-829369d51230",
+      "partRecordNumber": 1032,
+      "locationNumber": 1,
+      "quantityOnHand": "113.0000",
+      "quantityAvailable": "101.0000"
+    },
+    {
+      "id": "ae72df00-1875-46d5-8028-bdd608f62330",
+      "idRef": "e390e949-586f-4dfe-8048-829369d51230",
+      "partRecordNumber": 1032,
+      "locationNumber": 2,
+      "quantityOnHand": "12.0000",
+      "quantityAvailable": "9.0000"
+    },
+    {
+      "id": "134a15d2-ed70-4cc7-8417-22ba9ae5093d",
+      "idRef": "ebad19d2-75ca-4f02-8dd9-187ba4116ead",
+      "partRecordNumber": 1033,
+      "locationNumber": 1,
+      "quantityOnHand": "145.0000",
+      "quantityAvailable": "128.0000"
+    },
+    {
+      "id": "aaf6e428-166d-4cd2-824f-947fc8bc9c83",
+      "idRef": "ebad19d2-75ca-4f02-8dd9-187ba4116ead",
+      "partRecordNumber": 1033,
+      "locationNumber": 2,
+      "quantityOnHand": "16.0000",
+      "quantityAvailable": "16.0000"
+    },
+    {
+      "id": "fc419770-3416-48fc-8400-4de6805ecb5f",
+      "idRef": "ebad19d2-75ca-4f02-8dd9-187ba4116ead",
+      "partRecordNumber": 1033,
+      "locationNumber": 4,
+      "quantityOnHand": "5.0000",
+      "quantityAvailable": "5.0000"
+    },
+    {
+      "id": "f7839457-5685-4a4c-8345-bc4c60348ec6",
+      "idRef": "edb5acb8-ab92-4eb3-852d-35dbb1ac0b62",
+      "partRecordNumber": 1034,
+      "locationNumber": 1,
+      "quantityOnHand": "182.0000",
+      "quantityAvailable": "151.0000"
+    },
+    {
+      "id": "2e78ac84-6bd2-42f8-87e7-28c14c5761f8",
+      "idRef": "edb5acb8-ab92-4eb3-852d-35dbb1ac0b62",
+      "partRecordNumber": 1034,
+      "locationNumber": 3,
+      "quantityOnHand": "8.0000",
+      "quantityAvailable": "8.0000"
+    },
+    {
+      "id": "c1dbc38e-c80f-4ecd-8072-eea4bb174118",
+      "idRef": "edb5acb8-ab92-4eb3-852d-35dbb1ac0b62",
+      "partRecordNumber": 1034,
+      "locationNumber": 5,
+      "quantityOnHand": "2.0000",
+      "quantityAvailable": "2.0000"
+    },
+    {
+      "id": "3c1ea3a9-8e33-4f4d-8ee8-9b7ea4a518f8",
+      "idRef": "037f9a06-3f13-4a4f-823d-6f40d65eaba5",
+      "partRecordNumber": 1035,
+      "locationNumber": 1,
+      "quantityOnHand": "74.0000",
+      "quantityAvailable": "56.0000"
+    },
+    {
+      "id": "026091ef-a7cb-482f-8cfe-28f5aa19989e",
+      "idRef": "037f9a06-3f13-4a4f-823d-6f40d65eaba5",
+      "partRecordNumber": 1035,
+      "locationNumber": 4,
+      "quantityOnHand": "12.0000",
+      "quantityAvailable": "10.0000"
+    },
+    {
+      "id": "a8ad43bd-75e4-4f55-8028-f3af76285bb6",
+      "idRef": "037f9a06-3f13-4a4f-823d-6f40d65eaba5",
+      "partRecordNumber": 1035,
+      "locationNumber": 5,
+      "quantityOnHand": "25.0000",
+      "quantityAvailable": "21.0000"
+    },
+    {
+      "id": "3dcfeda6-35cc-4d1e-8c88-1eab4d649228",
+      "idRef": "eb08075b-70fe-4c89-88ad-5afbbdbd186f",
+      "partRecordNumber": 1036,
+      "locationNumber": 1,
+      "quantityOnHand": "51.0000",
+      "quantityAvailable": "42.0000"
+    },
+    {
+      "id": "7d5df865-b622-4ae6-890f-cfd626df6a83",
+      "idRef": "eb08075b-70fe-4c89-88ad-5afbbdbd186f",
+      "partRecordNumber": 1036,
+      "locationNumber": 3,
+      "quantityOnHand": "17.0000",
+      "quantityAvailable": "16.0000"
+    },
+    {
+      "id": "61d979d3-a95a-4fc7-8be6-f523c4643bb6",
+      "idRef": "eb08075b-70fe-4c89-88ad-5afbbdbd186f",
+      "partRecordNumber": 1036,
+      "locationNumber": 5,
+      "quantityOnHand": "19.0000",
+      "quantityAvailable": "16.0000"
+    },
+    {
+      "id": "1933ec22-2fca-4969-85ad-875bd7522f17",
+      "idRef": "2b5870a1-7102-49bd-8306-0ed8ffd3b8f4",
+      "partRecordNumber": 1037,
+      "locationNumber": 1,
+      "quantityOnHand": "67.0000",
+      "quantityAvailable": "52.0000"
+    },
+    {
+      "id": "eaaabf19-a948-4e58-8a6e-aa6f2870541b",
+      "idRef": "2b5870a1-7102-49bd-8306-0ed8ffd3b8f4",
+      "partRecordNumber": 1037,
+      "locationNumber": 2,
+      "quantityOnHand": "14.0000",
+      "quantityAvailable": "14.0000"
+    },
+    {
+      "id": "4634e75a-9094-444c-878d-4ad6b1a03b1a",
+      "idRef": "2b5870a1-7102-49bd-8306-0ed8ffd3b8f4",
+      "partRecordNumber": 1037,
+      "locationNumber": 3,
+      "quantityOnHand": "5.0000",
+      "quantityAvailable": "5.0000"
+    },
+    {
+      "id": "48a8fcd9-b591-4125-8a9b-3f582e0533bd",
+      "idRef": "2b5870a1-7102-49bd-8306-0ed8ffd3b8f4",
+      "partRecordNumber": 1037,
+      "locationNumber": 4,
+      "quantityOnHand": "7.0000",
+      "quantityAvailable": "7.0000"
+    },
+    {
+      "id": "bfdb63f1-b5af-420a-8a22-c279e55d6079",
+      "idRef": "d2f67038-bd58-4c7f-8a77-550756c8e23c",
+      "partRecordNumber": 1038,
+      "locationNumber": 1,
+      "quantityOnHand": "79.0000",
+      "quantityAvailable": "78.0000"
+    },
+    {
+      "id": "8a51011b-14ce-42df-8b0d-60264e7276fb",
+      "idRef": "d2f67038-bd58-4c7f-8a77-550756c8e23c",
+      "partRecordNumber": 1038,
+      "locationNumber": 2,
+      "quantityOnHand": "6.0000",
+      "quantityAvailable": "5.0000"
+    },
+    {
+      "id": "6c7077ed-2d81-4060-8420-9e53675d8098",
+      "idRef": "d2f67038-bd58-4c7f-8a77-550756c8e23c",
+      "partRecordNumber": 1038,
+      "locationNumber": 3,
+      "quantityOnHand": "21.0000",
+      "quantityAvailable": "17.0000"
+    },
+    {
+      "id": "4bbbfc4f-b2e7-4471-8d0d-add21ba9a5ea",
+      "idRef": "496a8516-7c1d-42e6-8987-906e7b7077f6",
+      "partRecordNumber": 1039,
+      "locationNumber": 1,
+      "quantityOnHand": "53.0000",
+      "quantityAvailable": "51.0000"
+    },
+    {
+      "id": "1781cea8-1345-4e1d-8b36-520a13b4b87c",
+      "idRef": "496a8516-7c1d-42e6-8987-906e7b7077f6",
+      "partRecordNumber": 1039,
+      "locationNumber": 2,
+      "quantityOnHand": "13.0000",
+      "quantityAvailable": "10.0000"
+    },
+    {
+      "id": "25327ab0-beab-4f21-8351-8c1cbf2f82a1",
+      "idRef": "496a8516-7c1d-42e6-8987-906e7b7077f6",
+      "partRecordNumber": 1039,
+      "locationNumber": 5,
+      "quantityOnHand": "18.0000",
+      "quantityAvailable": "17.0000"
+    },
+    {
+      "id": "dbde18ec-e315-45be-8823-9ba0a979ea9f",
+      "idRef": "6316c4f3-4e9e-4de6-8473-ba6c9f1da956",
+      "partRecordNumber": 1040,
+      "locationNumber": 1,
+      "quantityOnHand": "74.0000",
+      "quantityAvailable": "62.0000"
+    },
+    {
+      "id": "64d0d357-3d95-4c09-8cac-c46a61b3355d",
+      "idRef": "6316c4f3-4e9e-4de6-8473-ba6c9f1da956",
+      "partRecordNumber": 1040,
+      "locationNumber": 2,
+      "quantityOnHand": "1.0000",
+      "quantityAvailable": "1.0000"
+    },
+    {
+      "id": "ce40fb15-ec33-4595-8dcd-6993029a314c",
+      "idRef": "6316c4f3-4e9e-4de6-8473-ba6c9f1da956",
+      "partRecordNumber": 1040,
+      "locationNumber": 3,
+      "quantityOnHand": "23.0000",
+      "quantityAvailable": "20.0000"
+    },
+    {
+      "id": "299f22b3-8355-455a-8b18-61cc34599c5e",
+      "idRef": "6316c4f3-4e9e-4de6-8473-ba6c9f1da956",
+      "partRecordNumber": 1040,
+      "locationNumber": 4,
+      "quantityOnHand": "2.0000",
+      "quantityAvailable": "2.0000"
+    },
+    {
+      "id": "b56c67e2-d394-490c-874c-a08803be6b43",
+      "idRef": "6316c4f3-4e9e-4de6-8473-ba6c9f1da956",
+      "partRecordNumber": 1040,
+      "locationNumber": 5,
+      "quantityOnHand": "30.0000",
+      "quantityAvailable": "24.0000"
+    },
+    {
+      "id": "12cb635e-31ed-4329-8344-3e9355f99a1e",
+      "idRef": "cf99c396-eae3-4cd1-8bda-028902d829a0",
+      "partRecordNumber": 1041,
+      "locationNumber": 1,
+      "quantityOnHand": "182.0000",
+      "quantityAvailable": "163.0000"
+    },
+    {
+      "id": "d27ff331-5955-4484-8982-7b9c2bfcb1fe",
+      "idRef": "cf99c396-eae3-4cd1-8bda-028902d829a0",
+      "partRecordNumber": 1041,
+      "locationNumber": 2,
+      "quantityOnHand": "26.0000",
+      "quantityAvailable": "23.0000"
+    },
+    {
+      "id": "ae9e9f63-452a-46f1-85a8-587f32caec86",
+      "idRef": "cf99c396-eae3-4cd1-8bda-028902d829a0",
+      "partRecordNumber": 1041,
+      "locationNumber": 3,
+      "quantityOnHand": "2.0000",
+      "quantityAvailable": "2.0000"
+    },
+    {
+      "id": "5b7a074a-fc2a-4154-867b-46d3bb2879dc",
+      "idRef": "845598d2-e77e-4ad2-8f1c-6398b1e6ccb9",
+      "partRecordNumber": 1042,
+      "locationNumber": 1,
+      "quantityOnHand": "71.0000",
+      "quantityAvailable": "65.0000"
+    },
+    {
+      "id": "f2570f85-74b3-40db-8d10-970f4c9a7395",
+      "idRef": "845598d2-e77e-4ad2-8f1c-6398b1e6ccb9",
+      "partRecordNumber": 1042,
+      "locationNumber": 2,
+      "quantityOnHand": "14.0000",
+      "quantityAvailable": "11.0000"
+    },
+    {
+      "id": "6b96c4f1-135f-4066-86a4-b2ae59a2865b",
+      "idRef": "e27db45c-84a9-494e-8f3d-fd2325be0d70",
+      "partRecordNumber": 1043,
+      "locationNumber": 1,
+      "quantityOnHand": "81.0000",
+      "quantityAvailable": "67.0000"
+    },
+    {
+      "id": "6c6314f3-8bc2-4c1b-8d1a-0b7f5c7814b3",
+      "idRef": "e27db45c-84a9-494e-8f3d-fd2325be0d70",
+      "partRecordNumber": 1043,
+      "locationNumber": 3,
+      "quantityOnHand": "19.0000",
+      "quantityAvailable": "19.0000"
+    },
+    {
+      "id": "15cc6f44-99e9-4f96-857c-a63188bd0d0a",
+      "idRef": "e27db45c-84a9-494e-8f3d-fd2325be0d70",
+      "partRecordNumber": 1043,
+      "locationNumber": 4,
+      "quantityOnHand": "12.0000",
+      "quantityAvailable": "11.0000"
+    },
+    {
+      "id": "f9b0715d-cfb2-459d-8f94-18a70e4f581d",
+      "idRef": "e27db45c-84a9-494e-8f3d-fd2325be0d70",
+      "partRecordNumber": 1043,
+      "locationNumber": 5,
+      "quantityOnHand": "7.0000",
+      "quantityAvailable": "7.0000"
+    },
+    {
+      "id": "d16886d0-0af2-4a69-8534-07f89422625c",
+      "idRef": "06906647-b30f-4cbe-8635-0bff37963cc6",
+      "partRecordNumber": 1044,
+      "locationNumber": 1,
+      "quantityOnHand": "154.0000",
+      "quantityAvailable": "123.0000"
+    },
+    {
+      "id": "9dd4f804-8dab-45c4-845c-181570d23fa4",
+      "idRef": "06906647-b30f-4cbe-8635-0bff37963cc6",
+      "partRecordNumber": 1044,
+      "locationNumber": 2,
+      "quantityOnHand": "19.0000",
+      "quantityAvailable": "18.0000"
+    },
+    {
+      "id": "9490f562-505c-4bca-8568-6dd98fd00d20",
+      "idRef": "06906647-b30f-4cbe-8635-0bff37963cc6",
+      "partRecordNumber": 1044,
+      "locationNumber": 4,
+      "quantityOnHand": "4.0000",
+      "quantityAvailable": "4.0000"
+    },
+    {
+      "id": "6fcbc62c-3fcd-4562-8745-4768471a8793",
+      "idRef": "0934e9e0-bab0-45c7-8e25-03ad1e7474c4",
+      "partRecordNumber": 1045,
+      "locationNumber": 1,
+      "quantityOnHand": "139.0000",
+      "quantityAvailable": "109.0000"
+    },
+    {
+      "id": "1348b891-051e-4135-85a3-d89bc1821b63",
+      "idRef": "56234ff1-98a9-41ec-84cf-1bd65cfdee56",
+      "partRecordNumber": 1046,
+      "locationNumber": 1,
+      "quantityOnHand": "150.0000",
+      "quantityAvailable": "113.0000"
+    },
+    {
+      "id": "c52459a2-6bc1-4175-8cdc-4e290a10521a",
+      "idRef": "56234ff1-98a9-41ec-84cf-1bd65cfdee56",
+      "partRecordNumber": 1046,
+      "locationNumber": 3,
+      "quantityOnHand": "10.0000",
+      "quantityAvailable": "9.0000"
+    },
+    {
+      "id": "cbc847e2-f465-49d3-8fd8-d3a7e67dc9f4",
+      "idRef": "1610fdde-5a9c-431f-8fc2-f77a4f3016b5",
+      "partRecordNumber": 1047,
+      "locationNumber": 1,
+      "quantityOnHand": "112.0000",
+      "quantityAvailable": "96.0000"
+    },
+    {
+      "id": "ed6bd138-4015-45b7-8886-d298a0739899",
+      "idRef": "1610fdde-5a9c-431f-8fc2-f77a4f3016b5",
+      "partRecordNumber": 1047,
+      "locationNumber": 2,
+      "quantityOnHand": "20.0000",
+      "quantityAvailable": "17.0000"
+    },
+    {
+      "id": "2ccde7fa-c82e-468e-8d1a-81259a0e7764",
+      "idRef": "1610fdde-5a9c-431f-8fc2-f77a4f3016b5",
+      "partRecordNumber": 1047,
+      "locationNumber": 3,
+      "quantityOnHand": "15.0000",
+      "quantityAvailable": "15.0000"
+    },
+    {
+      "id": "da3c4db4-c0f4-43b5-8c3b-97e36cd68bf8",
+      "idRef": "1610fdde-5a9c-431f-8fc2-f77a4f3016b5",
+      "partRecordNumber": 1047,
+      "locationNumber": 5,
+      "quantityOnHand": "3.0000",
+      "quantityAvailable": "3.0000"
+    },
+    {
+      "id": "c885543b-607c-4a05-8ba7-cb4deb25bb35",
+      "idRef": "bb0c32d7-2033-46ab-8944-3a110992a631",
+      "partRecordNumber": 1048,
+      "locationNumber": 1,
+      "quantityOnHand": "44.0000",
+      "quantityAvailable": "37.0000"
+    },
+    {
+      "id": "b9949880-401d-4e17-8706-ac4f7e0acdc0",
+      "idRef": "bb0c32d7-2033-46ab-8944-3a110992a631",
+      "partRecordNumber": 1048,
+      "locationNumber": 4,
+      "quantityOnHand": "28.0000",
+      "quantityAvailable": "22.0000"
+    },
+    {
+      "id": "3ffe8220-a4ca-4fd6-8b12-af652923936e",
+      "idRef": "bb0c32d7-2033-46ab-8944-3a110992a631",
+      "partRecordNumber": 1048,
+      "locationNumber": 5,
+      "quantityOnHand": "10.0000",
+      "quantityAvailable": "9.0000"
+    },
+    {
+      "id": "14e6204a-cc8d-4e77-84fa-048885cb57e9",
+      "idRef": "2c8ebb23-336d-436b-881d-44539acc0123",
+      "partRecordNumber": 1049,
+      "locationNumber": 1,
+      "quantityOnHand": "54.0000",
+      "quantityAvailable": "50.0000"
+    },
+    {
+      "id": "c32877c1-f146-4b32-853a-5d2d08c09fe2",
+      "idRef": "ec2effda-aad7-4d24-8458-4142b27d32fe",
+      "partRecordNumber": 1050,
+      "locationNumber": 1,
+      "quantityOnHand": "43.0000",
+      "quantityAvailable": "33.0000"
+    },
+    {
+      "id": "2975e114-e794-4bdf-817a-53e66a93f279",
+      "idRef": "ec2effda-aad7-4d24-8458-4142b27d32fe",
+      "partRecordNumber": 1050,
+      "locationNumber": 2,
+      "quantityOnHand": "7.0000",
+      "quantityAvailable": "7.0000"
+    },
+    {
+      "id": "af3b5113-a055-4a89-894c-e54913a53c3a",
+      "idRef": "ec2effda-aad7-4d24-8458-4142b27d32fe",
+      "partRecordNumber": 1050,
+      "locationNumber": 5,
+      "quantityOnHand": "21.0000",
+      "quantityAvailable": "19.0000"
+    },
+    {
+      "id": "151fd261-dca1-47b8-8830-d22aa0e91ba7",
+      "idRef": "f52724a7-3458-4c70-8c19-40cb3b72ed4b",
+      "partRecordNumber": 1051,
+      "locationNumber": 1,
+      "quantityOnHand": "80.0000",
+      "quantityAvailable": "67.0000"
+    },
+    {
+      "id": "6379e02b-8aef-4c27-84f5-330645547d8a",
+      "idRef": "f52724a7-3458-4c70-8c19-40cb3b72ed4b",
+      "partRecordNumber": 1051,
+      "locationNumber": 4,
+      "quantityOnHand": "29.0000",
+      "quantityAvailable": "28.0000"
+    },
+    {
+      "id": "d23d6e34-24ff-403f-8567-1c210f5e3a0a",
+      "idRef": "f52724a7-3458-4c70-8c19-40cb3b72ed4b",
+      "partRecordNumber": 1051,
+      "locationNumber": 5,
+      "quantityOnHand": "4.0000",
+      "quantityAvailable": "3.0000"
+    },
+    {
+      "id": "76a923a8-1539-4d6f-8447-602b7b90f8f4",
+      "idRef": "78bc1bfd-2fbe-445f-85af-da13f5073b40",
+      "partRecordNumber": 1052,
+      "locationNumber": 1,
+      "quantityOnHand": "97.0000",
+      "quantityAvailable": "79.0000"
+    },
+    {
+      "id": "85ead32a-850f-45ee-88f6-012206f9a9c9",
+      "idRef": "78bc1bfd-2fbe-445f-85af-da13f5073b40",
+      "partRecordNumber": 1052,
+      "locationNumber": 3,
+      "quantityOnHand": "3.0000",
+      "quantityAvailable": "2.0000"
+    },
+    {
+      "id": "2edccde5-de92-4ab0-8208-e760de02860b",
+      "idRef": "78bc1bfd-2fbe-445f-85af-da13f5073b40",
+      "partRecordNumber": 1052,
+      "locationNumber": 4,
+      "quantityOnHand": "26.0000",
+      "quantityAvailable": "20.0000"
+    },
+    {
+      "id": "64b76ab4-2439-4046-8dea-5d73b73d85ba",
+      "idRef": "88406dcd-65d5-413a-8ac5-924d976f528f",
+      "partRecordNumber": 1053,
+      "locationNumber": 1,
+      "quantityOnHand": "102.0000",
+      "quantityAvailable": "91.0000"
+    },
+    {
+      "id": "89cd1768-590b-450c-8929-62e03c5d516e",
+      "idRef": "88406dcd-65d5-413a-8ac5-924d976f528f",
+      "partRecordNumber": 1053,
+      "locationNumber": 4,
+      "quantityOnHand": "14.0000",
+      "quantityAvailable": "12.0000"
+    },
+    {
+      "id": "013a085f-845c-4cb7-87e7-39e0d2ed7b72",
+      "idRef": "88406dcd-65d5-413a-8ac5-924d976f528f",
+      "partRecordNumber": 1053,
+      "locationNumber": 5,
+      "quantityOnHand": "29.0000",
+      "quantityAvailable": "23.0000"
+    },
+    {
+      "id": "8590abd0-6259-40d9-8589-509c09677e56",
+      "idRef": "e7c39d63-bf56-4ec2-857d-9daa95a23a2b",
+      "partRecordNumber": 1054,
+      "locationNumber": 1,
+      "quantityOnHand": "88.0000",
+      "quantityAvailable": "68.0000"
+    },
+    {
+      "id": "48abcbc4-a068-4505-875d-18729a1b89d8",
+      "idRef": "e7c39d63-bf56-4ec2-857d-9daa95a23a2b",
+      "partRecordNumber": 1054,
+      "locationNumber": 2,
+      "quantityOnHand": "3.0000",
+      "quantityAvailable": "2.0000"
+    },
+    {
+      "id": "54ed6818-a9a2-4737-81f2-9d66be0a9a55",
+      "idRef": "e7c39d63-bf56-4ec2-857d-9daa95a23a2b",
+      "partRecordNumber": 1054,
+      "locationNumber": 3,
+      "quantityOnHand": "2.0000",
+      "quantityAvailable": "2.0000"
+    },
+    {
+      "id": "9ff10901-833f-494b-81d1-b3ecdf3ad490",
+      "idRef": "e7c39d63-bf56-4ec2-857d-9daa95a23a2b",
+      "partRecordNumber": 1054,
+      "locationNumber": 4,
+      "quantityOnHand": "13.0000",
+      "quantityAvailable": "12.0000"
+    },
+    {
+      "id": "65ac25ec-61f0-4108-8f1a-f1579790cebb",
+      "idRef": "e7c39d63-bf56-4ec2-857d-9daa95a23a2b",
+      "partRecordNumber": 1054,
+      "locationNumber": 5,
+      "quantityOnHand": "4.0000",
+      "quantityAvailable": "3.0000"
+    },
+    {
+      "id": "a470aa11-76be-4708-8b8f-2ae39537fe79",
+      "idRef": "acc3842d-be7a-4de6-81da-752d6d29137c",
+      "partRecordNumber": 1055,
+      "locationNumber": 1,
+      "quantityOnHand": "100.0000",
+      "quantityAvailable": "95.0000"
+    },
+    {
+      "id": "bd2e4e9c-6aaa-4485-8598-178cb89af3c9",
+      "idRef": "acc3842d-be7a-4de6-81da-752d6d29137c",
+      "partRecordNumber": 1055,
+      "locationNumber": 5,
+      "quantityOnHand": "4.0000",
+      "quantityAvailable": "4.0000"
+    },
+    {
+      "id": "3bb3e3e1-0f13-40f1-8d7b-2b114433a7a9",
+      "idRef": "d8ea5bde-9e21-4fb3-8fee-d27ad5e8b84a",
+      "partRecordNumber": 1056,
+      "locationNumber": 1,
+      "quantityOnHand": "146.0000",
+      "quantityAvailable": "116.0000"
+    },
+    {
+      "id": "c6b5177c-81d4-4caf-8dd9-4e942e6e1021",
+      "idRef": "d8ea5bde-9e21-4fb3-8fee-d27ad5e8b84a",
+      "partRecordNumber": 1056,
+      "locationNumber": 3,
+      "quantityOnHand": "29.0000",
+      "quantityAvailable": "27.0000"
+    },
+    {
+      "id": "08a962d7-e291-428c-8cf1-7a34aa6d070b",
+      "idRef": "d8ea5bde-9e21-4fb3-8fee-d27ad5e8b84a",
+      "partRecordNumber": 1056,
+      "locationNumber": 4,
+      "quantityOnHand": "20.0000",
+      "quantityAvailable": "18.0000"
+    },
+    {
+      "id": "96727ef6-e423-4181-88d6-5fa8b6efc132",
+      "idRef": "d8ea5bde-9e21-4fb3-8fee-d27ad5e8b84a",
+      "partRecordNumber": 1056,
+      "locationNumber": 5,
+      "quantityOnHand": "4.0000",
+      "quantityAvailable": "4.0000"
+    },
+    {
+      "id": "75ce8f42-1847-47b0-8c0d-69e379f92451",
+      "idRef": "b7e817f3-719e-410d-8087-1983b9d2fb48",
+      "partRecordNumber": 1057,
+      "locationNumber": 1,
+      "quantityOnHand": "109.0000",
+      "quantityAvailable": "91.0000"
+    },
+    {
+      "id": "c5fa6087-cabf-4d11-899e-2ac81bf8babb",
+      "idRef": "b7e817f3-719e-410d-8087-1983b9d2fb48",
+      "partRecordNumber": 1057,
+      "locationNumber": 2,
+      "quantityOnHand": "18.0000",
+      "quantityAvailable": "14.0000"
+    },
+    {
+      "id": "9a79df76-ea0f-4ff6-804b-c8d67b1d2db3",
+      "idRef": "b7e817f3-719e-410d-8087-1983b9d2fb48",
+      "partRecordNumber": 1057,
+      "locationNumber": 4,
+      "quantityOnHand": "9.0000",
+      "quantityAvailable": "8.0000"
+    },
+    {
+      "id": "b589d75e-3ef4-4caf-8e82-b88fdcae52d4",
+      "idRef": "bcfd0967-0e26-4bff-8c1a-d4de0cc7fd02",
+      "partRecordNumber": 1058,
+      "locationNumber": 1,
+      "quantityOnHand": "170.0000",
+      "quantityAvailable": "143.0000"
+    },
+    {
+      "id": "11782f98-f32d-4a81-86f0-68d3fc60a0cd",
+      "idRef": "bcfd0967-0e26-4bff-8c1a-d4de0cc7fd02",
+      "partRecordNumber": 1058,
+      "locationNumber": 3,
+      "quantityOnHand": "2.0000",
+      "quantityAvailable": "2.0000"
+    },
+    {
+      "id": "7bc5e425-da4f-4063-898d-cb94a8ce2aed",
+      "idRef": "de15a9ac-2662-4f68-818a-1b59b1527eac",
+      "partRecordNumber": 1059,
+      "locationNumber": 1,
+      "quantityOnHand": "43.0000",
+      "quantityAvailable": "32.0000"
+    },
+    {
+      "id": "b9058fb8-852e-4973-87cc-0db45508bf12",
+      "idRef": "de15a9ac-2662-4f68-818a-1b59b1527eac",
+      "partRecordNumber": 1059,
+      "locationNumber": 3,
+      "quantityOnHand": "5.0000",
+      "quantityAvailable": "4.0000"
+    },
+    {
+      "id": "9ee08906-0eee-4f9b-8543-648a02123f98",
+      "idRef": "de15a9ac-2662-4f68-818a-1b59b1527eac",
+      "partRecordNumber": 1059,
+      "locationNumber": 4,
+      "quantityOnHand": "24.0000",
+      "quantityAvailable": "22.0000"
+    },
+    {
+      "id": "e2891f44-2e5c-44b9-8ff2-f723dc598868",
+      "idRef": "de15a9ac-2662-4f68-818a-1b59b1527eac",
+      "partRecordNumber": 1059,
+      "locationNumber": 5,
+      "quantityOnHand": "23.0000",
+      "quantityAvailable": "21.0000"
+    },
+    {
+      "id": "8a578132-24e8-4544-842b-ce446b699daa",
+      "idRef": "7ce66c1f-95db-4d11-8540-d309aeca39df",
+      "partRecordNumber": 1060,
+      "locationNumber": 1,
+      "quantityOnHand": "37.0000",
+      "quantityAvailable": "37.0000"
+    },
+    {
+      "id": "27b1a7f3-393e-466b-89e4-6d4045538059",
+      "idRef": "7ce66c1f-95db-4d11-8540-d309aeca39df",
+      "partRecordNumber": 1060,
+      "locationNumber": 2,
+      "quantityOnHand": "10.0000",
+      "quantityAvailable": "9.0000"
+    },
+    {
+      "id": "11f05c49-f9a9-4480-8fe8-f11ede10bc9e",
+      "idRef": "7ce66c1f-95db-4d11-8540-d309aeca39df",
+      "partRecordNumber": 1060,
+      "locationNumber": 4,
+      "quantityOnHand": "26.0000",
+      "quantityAvailable": "22.0000"
+    },
+    {
+      "id": "67629f03-9cd1-417b-8012-e7fbc968b791",
+      "idRef": "7ce66c1f-95db-4d11-8540-d309aeca39df",
+      "partRecordNumber": 1060,
+      "locationNumber": 5,
+      "quantityOnHand": "26.0000",
+      "quantityAvailable": "20.0000"
+    },
+    {
+      "id": "d3cded73-2ae5-485e-8530-6bf838ecd724",
+      "idRef": "7096787c-0214-4573-8c4c-45784dbc60dc",
+      "partRecordNumber": 1061,
+      "locationNumber": 1,
+      "quantityOnHand": "55.0000",
+      "quantityAvailable": "43.0000"
+    },
+    {
+      "id": "01541c63-b213-41d0-8aa0-1a6885ce4592",
+      "idRef": "7096787c-0214-4573-8c4c-45784dbc60dc",
+      "partRecordNumber": 1061,
+      "locationNumber": 4,
+      "quantityOnHand": "20.0000",
+      "quantityAvailable": "18.0000"
+    },
+    {
+      "id": "bf69837a-6376-489f-83ed-768f580bf631",
+      "idRef": "6662e783-ce74-4d8f-88fe-69099abc49a0",
+      "partRecordNumber": 1062,
+      "locationNumber": 1,
+      "quantityOnHand": "114.0000",
+      "quantityAvailable": "101.0000"
+    },
+    {
+      "id": "f85b1412-29b6-43dd-814a-12d0d2c60d0f",
+      "idRef": "6662e783-ce74-4d8f-88fe-69099abc49a0",
+      "partRecordNumber": 1062,
+      "locationNumber": 2,
+      "quantityOnHand": "4.0000",
+      "quantityAvailable": "3.0000"
+    },
+    {
+      "id": "6f8603c8-b5d6-4a52-890c-41d64c31719b",
+      "idRef": "6662e783-ce74-4d8f-88fe-69099abc49a0",
+      "partRecordNumber": 1062,
+      "locationNumber": 4,
+      "quantityOnHand": "4.0000",
+      "quantityAvailable": "3.0000"
+    },
+    {
+      "id": "28861e17-5183-4634-8149-342a289cc24a",
+      "idRef": "4ac194fe-7dc8-4a6b-8c4c-beb13e23ae20",
+      "partRecordNumber": 1063,
+      "locationNumber": 1,
+      "quantityOnHand": "33.0000",
+      "quantityAvailable": "29.0000"
+    },
+    {
+      "id": "9737edd1-bd09-41d4-85ab-2603c6a5b2fd",
+      "idRef": "4ac194fe-7dc8-4a6b-8c4c-beb13e23ae20",
+      "partRecordNumber": 1063,
+      "locationNumber": 2,
+      "quantityOnHand": "4.0000",
+      "quantityAvailable": "3.0000"
+    },
+    {
+      "id": "ed88aea6-5743-4334-8a60-01c7cf8358a7",
+      "idRef": "6e4b4a2c-c0e3-4d82-8682-7b02582d58fe",
+      "partRecordNumber": 1064,
+      "locationNumber": 1,
+      "quantityOnHand": "75.0000",
+      "quantityAvailable": "58.0000"
+    },
+    {
+      "id": "37edbcc7-90c7-4cf3-8c9e-01f9a2ab53c4",
+      "idRef": "6e4b4a2c-c0e3-4d82-8682-7b02582d58fe",
+      "partRecordNumber": 1064,
+      "locationNumber": 2,
+      "quantityOnHand": "21.0000",
+      "quantityAvailable": "21.0000"
+    },
+    {
+      "id": "3e767280-0520-4c71-8c63-b5475aa0ff2c",
+      "idRef": "6e4b4a2c-c0e3-4d82-8682-7b02582d58fe",
+      "partRecordNumber": 1064,
+      "locationNumber": 4,
+      "quantityOnHand": "21.0000",
+      "quantityAvailable": "17.0000"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "406c6ec0-f46d-440f-8787-4533e70ab85c",
+      "recordNumber": 2401,
+      "jobName": "Harbor View Clinic",
+      "shortName": "Harbor View",
+      "status": 4
+    },
+    {
+      "id": "83dc69ca-4b8d-41e7-8802-2d7e9d0029ac",
+      "recordNumber": 2402,
+      "jobName": "Cedar Point Library",
+      "shortName": "Cedar Point",
+      "status": 4
+    },
+    {
+      "id": "604e474e-b17b-412a-85ec-73f500136070",
+      "recordNumber": 2403,
+      "jobName": "Willow Creek Apartments",
+      "shortName": "Willow Creek",
+      "status": 4
+    },
+    {
+      "id": "f45edfe7-3a10-46b0-82d9-d1736a676912",
+      "recordNumber": 2404,
+      "jobName": "Granite Falls Fire Station",
+      "shortName": "Granite Falls",
+      "status": 4
+    },
+    {
+      "id": "70a5327c-e905-45e4-8e4a-ecd419b03bc6",
+      "recordNumber": 2405,
+      "jobName": "Bayside Medical Office",
+      "shortName": "Bayside Medical",
+      "status": 4
+    },
+    {
+      "id": "c1713422-eae7-4f3d-8718-d9b1a47ac32f",
+      "recordNumber": 2406,
+      "jobName": "Pinecrest Middle School",
+      "shortName": "Pinecrest Middle",
+      "status": 4
+    },
+    {
+      "id": "36622886-f678-4e68-8033-f358081ec92d",
+      "recordNumber": 2407,
+      "jobName": "Lakeshore Townhomes, Phase 2",
+      "shortName": "Lakeshore Townhomes",
+      "status": 4
+    },
+    {
+      "id": "3d0faec9-d754-4383-89a8-8ca6f9bfceb9",
+      "recordNumber": 2408,
+      "jobName": "Copper Canyon Brewery",
+      "shortName": "Copper Canyon",
+      "status": 4
+    },
+    {
+      "id": "1b509f98-7279-410e-8e3a-8b11a043e5a3",
+      "recordNumber": 2409,
+      "jobName": "Elm Street Retail Center",
+      "shortName": "Elm Street",
+      "status": 5
+    },
+    {
+      "id": "d7eaa9a9-5dd2-470f-8533-27db2b167338",
+      "recordNumber": 2410,
+      "jobName": "Foxglove Senior Living",
+      "shortName": "Foxglove Senior",
+      "status": 4
+    },
+    {
+      "id": "6d482d53-1356-4f9b-89d7-595e754e57e6",
+      "recordNumber": 2411,
+      "jobName": "Iron Bridge Warehouse",
+      "shortName": "Iron Bridge",
+      "status": 4
+    },
+    {
+      "id": "df3ca37f-cee5-4f29-89a3-dc862142ec77",
+      "recordNumber": 2412,
+      "jobName": "Juniper Office Park",
+      "shortName": "Juniper Office",
+      "status": 4
+    },
+    {
+      "id": "b3e6f412-11ad-445d-8ce4-50b3404f310e",
+      "recordNumber": 2413,
+      "jobName": "Kingfisher Marina",
+      "shortName": "Kingfisher Marina",
+      "status": 4
+    },
+    {
+      "id": "99a7b3db-3db8-45a2-82cd-c56987115336",
+      "recordNumber": 2414,
+      "jobName": "Lighthouse Community Church",
+      "shortName": "Lighthouse Community",
+      "status": 4
+    },
+    {
+      "id": "35e83e2d-0ff9-40db-84e4-67dfcd40751f",
+      "recordNumber": 2415,
+      "jobName": "Meadowbrook Elementary",
+      "shortName": "Meadowbrook Elementary",
+      "status": 4
+    },
+    {
+      "id": "0da192f0-35e8-46b9-883a-4c833faaeb54",
+      "recordNumber": 2416,
+      "jobName": "Northstar Data Hall",
+      "shortName": "Northstar Data",
+      "status": 4
+    },
+    {
+      "id": "d38260da-e8ee-44ef-8497-185d3e4eaf62",
+      "recordNumber": 2417,
+      "jobName": "Orchard Lane Duplexes",
+      "shortName": "Orchard Lane",
+      "status": 4
+    },
+    {
+      "id": "3c818e47-ec31-4b85-89aa-040e62e6799f",
+      "recordNumber": 2418,
+      "jobName": "Pelican Bay Hotel",
+      "shortName": "Pelican Bay",
+      "status": 5
+    },
+    {
+      "id": "0835bbd2-e4b8-486a-8e4a-9f9ffec20459",
+      "recordNumber": 2419,
+      "jobName": "Quarry Road Distribution",
+      "shortName": "Quarry Road",
+      "status": 4
+    },
+    {
+      "id": "986f1aa3-c913-4dc3-83fe-385e90111ff2",
+      "recordNumber": 2420,
+      "jobName": "Red Oak Dental Suite",
+      "shortName": "Red Oak",
+      "status": 4
+    },
+    {
+      "id": "601ea026-93b0-4f8c-88b5-6a33ccb5d9fe",
+      "recordNumber": 2421,
+      "jobName": "Sandstone Rec Center",
+      "shortName": "Sandstone Rec",
+      "status": 4
+    },
+    {
+      "id": "25efe1e1-ee02-4f4a-8483-436adc8cea1c",
+      "recordNumber": 2422,
+      "jobName": "Tidewater Lofts",
+      "shortName": "Tidewater Lofts",
+      "status": 4
+    },
+    {
+      "id": "6269ff41-7b52-48a3-8771-260edfb46d99",
+      "recordNumber": 2423,
+      "jobName": "Union Square Parking",
+      "shortName": "Union Square",
+      "status": 4
+    },
+    {
+      "id": "fd7f9d2d-3189-495b-820f-2f91a82a4f9d",
+      "recordNumber": 2424,
+      "jobName": "Valley Vista Clinic",
+      "shortName": "Valley Vista",
+      "status": 4
+    },
+    {
+      "id": "743beb26-ce24-42e3-89d8-13563d6721fc",
+      "recordNumber": 2425,
+      "jobName": "Westgate Cold Storage",
+      "shortName": "Westgate Cold",
+      "status": 4
+    },
+    {
+      "id": "a4e47e90-5887-4b6b-8a56-0db461e51e25",
+      "recordNumber": 2426,
+      "jobName": "Yellowtail Restaurant",
+      "shortName": "Yellowtail Restaurant",
+      "status": 4
+    },
+    {
+      "id": "67048ffa-e3d3-4231-8c86-537da30b9202",
+      "recordNumber": 2427,
+      "jobName": "Zephyr Labs Fit-out",
+      "shortName": "Zephyr Labs",
+      "status": 5
+    },
+    {
+      "id": "a1a67149-133d-4c66-8a52-f85fe06d7c96",
+      "recordNumber": 2428,
+      "jobName": "Aspen Court Condos",
+      "shortName": "Aspen Court",
+      "status": 4
+    },
+    {
+      "id": "6b0d33ff-acf5-4844-83ce-b02cd3b81fe9",
+      "recordNumber": 2429,
+      "jobName": "Birchwood Library Annex",
+      "shortName": "Birchwood Library",
+      "status": 4
+    },
+    {
+      "id": "034beeb6-f2b6-4d41-857d-bb4c0f6a26ae",
+      "recordNumber": 2430,
+      "jobName": "Clearwater Treatment Plant",
+      "shortName": "Clearwater Treatment",
+      "status": 4
+    },
+    {
+      "id": "9ec130c9-fbbb-46e6-80b9-e0336f8762fc",
+      "recordNumber": 2431,
+      "jobName": "Driftwood Credit Union",
+      "shortName": "Driftwood Credit",
+      "status": 4
+    },
+    {
+      "id": "410563e0-ac0f-4410-8ca5-b91a4b4f20ef",
+      "recordNumber": 2432,
+      "jobName": "Evergreen Hospice",
+      "shortName": "Evergreen Hospice",
+      "status": 4
+    }
+  ],
+  "job-phases": [
+    {
+      "id": "e64525cf-12a7-4ad6-8475-44c40aed84ac",
+      "recordNumber": 2401,
+      "phaseNumber": 1,
+      "phaseName": "Underground"
+    },
+    {
+      "id": "26a3243d-7987-45a3-8feb-108afbb5ecc6",
+      "recordNumber": 2401,
+      "phaseNumber": 2,
+      "phaseName": "Rough-in"
+    },
+    {
+      "id": "2413abcd-6b8f-4272-8838-ef33a433fcfd",
+      "recordNumber": 2401,
+      "phaseNumber": 3,
+      "phaseName": "Top-out"
+    },
+    {
+      "id": "5295f729-26d1-4390-8770-d3339cf7174d",
+      "recordNumber": 2401,
+      "phaseNumber": 4,
+      "phaseName": "Trim and finish"
+    },
+    {
+      "id": "bce66972-8f40-4216-8329-46cf4574ffb8",
+      "recordNumber": 2401,
+      "phaseNumber": 5,
+      "phaseName": "Punch list"
+    },
+    {
+      "id": "1d9f2a75-5052-4620-8c7d-8f8865c3da8c",
+      "recordNumber": 2402,
+      "phaseNumber": 1,
+      "phaseName": "Underground"
+    },
+    {
+      "id": "cb8d8fc5-e483-43e8-851b-f462cc351854",
+      "recordNumber": 2402,
+      "phaseNumber": 2,
+      "phaseName": "Rough-in"
+    },
+    {
+      "id": "681ec8dc-bc32-4413-8469-d26130534a2e",
+      "recordNumber": 2402,
+      "phaseNumber": 3,
+      "phaseName": "Top-out"
+    },
+    {
+      "id": "f0705d4f-01dd-4d02-8e67-5a9f16718dd7",
+      "recordNumber": 2402,
+      "phaseNumber": 4,
+      "phaseName": "Trim and finish"
+    },
+    {
+      "id": "da56c13a-9fec-4ba8-8223-e9bd32489175",
+      "recordNumber": 2402,
+      "phaseNumber": 5,
+      "phaseName": "Punch list"
+    },
+    {
+      "id": "91b6e92f-8841-4cb4-8d0a-9044945cb88a",
+      "recordNumber": 2403,
+      "phaseNumber": 1,
+      "phaseName": "Underground"
+    },
+    {
+      "id": "aa34ff65-c425-4e19-8ad2-428cd6a8a99d",
+      "recordNumber": 2403,
+      "phaseNumber": 2,
+      "phaseName": "Rough-in"
+    },
+    {
+      "id": "6f4a7939-4c23-4fdf-85c0-a6aaaca2efa2",
+      "recordNumber": 2403,
+      "phaseNumber": 3,
+      "phaseName": "Top-out"
+    },
+    {
+      "id": "c001c024-9b9b-4ab1-8399-5902ad5df342",
+      "recordNumber": 2403,
+      "phaseNumber": 4,
+      "phaseName": "Trim and finish"
+    },
+    {
+      "id": "8ddb174f-064c-4aea-8a03-2a9e58f5ed03",
+      "recordNumber": 2403,
+      "phaseNumber": 5,
+      "phaseName": "Punch list"
+    },
+    {
+      "id": "0293df16-8cfc-491d-8e71-ba1ab754eec6",
+      "recordNumber": 2404,
+      "phaseNumber": 1,
+      "phaseName": "Underground"
+    },
+    {
+      "id": "a79347d7-74ac-439f-8e00-2df71e5b4a3e",
+      "recordNumber": 2404,
+      "phaseNumber": 2,
+      "phaseName": "Rough-in"
+    },
+    {
+      "id": "ee4b24d4-485e-491b-8bc0-4e7493355a70",
+      "recordNumber": 2404,
+      "phaseNumber": 3,
+      "phaseName": "Top-out"
+    },
+    {
+      "id": "7ef5994a-5abb-42fb-8575-bce316ed7d62",
+      "recordNumber": 2404,
+      "phaseNumber": 4,
+      "phaseName": "Trim and finish"
+    },
+    {
+      "id": "319adc90-1389-4b40-8913-e3099362cee2",
+      "recordNumber": 2404,
+      "phaseNumber": 5,
+      "phaseName": "Punch list"
+    },
+    {
+      "id": "86d7feb4-0dcf-49b4-88fa-19fa2f9f3695",
+      "recordNumber": 2405,
+      "phaseNumber": 1,
+      "phaseName": "Underground"
+    },
+    {
+      "id": "5f1ee36a-7cbe-45ee-88fe-1ead2b6c9310",
+      "recordNumber": 2405,
+      "phaseNumber": 2,
+      "phaseName": "Rough-in"
+    },
+    {
+      "id": "1e3f45fe-293a-47d9-8037-0c206fa56e67",
+      "recordNumber": 2405,
+      "phaseNumber": 3,
+      "phaseName": "Top-out"
+    },
+    {
+      "id": "e490cbf9-61b3-4334-8a2e-edf2ff228d68",
+      "recordNumber": 2405,
+      "phaseNumber": 4,
+      "phaseName": "Trim and finish"
+    },
+    {
+      "id": "994fb3b2-d4a3-4595-809d-488905dec172",
+      "recordNumber": 2405,
+      "phaseNumber": 5,
+      "phaseName": "Punch list"
+    },
+    {
+      "id": "0cf4be3a-5670-4833-8b70-cb460809a8c9",
+      "recordNumber": 2406,
+      "phaseNumber": 1,
+      "phaseName": "Underground"
+    },
+    {
+      "id": "c42d3e62-dd3a-4d8f-8cd8-f5ae61407d6c",
+      "recordNumber": 2406,
+      "phaseNumber": 2,
+      "phaseName": "Rough-in"
+    },
+    {
+      "id": "780f9695-4b11-4789-805f-1374f04ea8c5",
+      "recordNumber": 2406,
+      "phaseNumber": 3,
+      "phaseName": "Top-out"
+    },
+    {
+      "id": "a6e538b0-debd-4909-8540-d628c5d76850",
+      "recordNumber": 2406,
+      "phaseNumber": 4,
+      "phaseName": "Trim and finish"
+    },
+    {
+      "id": "302ad9c6-b0c2-47a9-8c6b-d984ca897d64",
+      "recordNumber": 2406,
+      "phaseNumber": 5,
+      "phaseName": "Punch list"
+    },
+    {
+      "id": "63c51904-bf74-4a2a-82ea-0402818f7452",
+      "recordNumber": 2407,
+      "phaseNumber": 1,
+      "phaseName": "Underground"
+    },
+    {
+      "id": "c6df9e53-627e-4ee1-8430-09979a58b8b6",
+      "recordNumber": 2407,
+      "phaseNumber": 2,
+      "phaseName": "Rough-in"
+    },
+    {
+      "id": "1da33b24-6fcc-4117-872b-ba8238304f4c",
+      "recordNumber": 2407,
+      "phaseNumber": 3,
+      "phaseName": "Top-out"
+    },
+    {
+      "id": "8dc6c841-4c33-4351-8d27-ade9817c3f91",
+      "recordNumber": 2407,
+      "phaseNumber": 4,
+      "phaseName": "Trim and finish"
+    },
+    {
+      "id": "9f403e81-6787-45e4-84aa-0c0050c17e96",
+      "recordNumber": 2407,
+      "phaseNumber": 5,
+      "phaseName": "Punch list"
+    },
+    {
+      "id": "fdac52cf-298f-48ba-87cf-d3045c97b87c",
+      "recordNumber": 2408,
+      "phaseNumber": 1,
+      "phaseName": "Underground"
+    },
+    {
+      "id": "b469ae9b-fc1a-4f49-86d9-d0ae2ef164d8",
+      "recordNumber": 2408,
+      "phaseNumber": 2,
+      "phaseName": "Rough-in"
+    },
+    {
+      "id": "98666179-5b80-44e9-8d87-44332ec7395b",
+      "recordNumber": 2408,
+      "phaseNumber": 3,
+      "phaseName": "Top-out"
+    },
+    {
+      "id": "d057a5cc-9f5b-421c-8b6e-ca3d14c9855d",
+      "recordNumber": 2408,
+      "phaseNumber": 4,
+      "phaseName": "Trim and finish"
+    },
+    {
+      "id": "ac3d5160-53f0-4d52-85ab-7170dd93a1e1",
+      "recordNumber": 2408,
+      "phaseNumber": 5,
+      "phaseName": "Punch list"
+    },
+    {
+      "id": "20544c78-0ad2-4bc6-89cb-66ab1b0469b2",
+      "recordNumber": 2409,
+      "phaseNumber": 1,
+      "phaseName": "Underground"
+    },
+    {
+      "id": "60a25529-8e21-4dc0-851f-a06dc3377caa",
+      "recordNumber": 2409,
+      "phaseNumber": 2,
+      "phaseName": "Rough-in"
+    },
+    {
+      "id": "d303daee-6293-4575-8e79-2dae16ca57c8",
+      "recordNumber": 2409,
+      "phaseNumber": 3,
+      "phaseName": "Top-out"
+    },
+    {
+      "id": "7d235c9c-8f0c-44f9-88e0-894857ad5331",
+      "recordNumber": 2409,
+      "phaseNumber": 4,
+      "phaseName": "Trim and finish"
+    },
+    {
+      "id": "003593cf-d794-4a9e-86f3-66b4db1f4f23",
+      "recordNumber": 2409,
+      "phaseNumber": 5,
+      "phaseName": "Punch list"
+    },
+    {
+      "id": "6e599e95-6b1e-40b4-8413-a54a17dd9b86",
+      "recordNumber": 2410,
+      "phaseNumber": 1,
+      "phaseName": "Underground"
+    },
+    {
+      "id": "2e90e865-2e7a-4743-8022-8d6502337eb8",
+      "recordNumber": 2410,
+      "phaseNumber": 2,
+      "phaseName": "Rough-in"
+    },
+    {
+      "id": "c4aee0b2-c95c-4603-824a-5760061018fe",
+      "recordNumber": 2410,
+      "phaseNumber": 3,
+      "phaseName": "Top-out"
+    },
+    {
+      "id": "425295f0-aefd-4e5f-8b4e-88f6e5355d80",
+      "recordNumber": 2410,
+      "phaseNumber": 4,
+      "phaseName": "Trim and finish"
+    },
+    {
+      "id": "3d84f48c-d498-4a09-8bcd-65cf0ab74182",
+      "recordNumber": 2410,
+      "phaseNumber": 5,
+      "phaseName": "Punch list"
+    },
+    {
+      "id": "3b8ca492-5e54-4ee1-8ee3-36f06fb5e21d",
+      "recordNumber": 2411,
+      "phaseNumber": 1,
+      "phaseName": "Underground"
+    },
+    {
+      "id": "b676f5da-379b-47f5-8f3e-1741e11e2ceb",
+      "recordNumber": 2411,
+      "phaseNumber": 2,
+      "phaseName": "Rough-in"
+    },
+    {
+      "id": "21e67de9-bd1f-4781-8b1e-125997659bec",
+      "recordNumber": 2411,
+      "phaseNumber": 3,
+      "phaseName": "Top-out"
+    },
+    {
+      "id": "6fde105f-d4b1-4825-8a6a-29dc55e76197",
+      "recordNumber": 2411,
+      "phaseNumber": 4,
+      "phaseName": "Trim and finish"
+    },
+    {
+      "id": "cc76bc51-8211-4924-8065-0063358d42bf",
+      "recordNumber": 2411,
+      "phaseNumber": 5,
+      "phaseName": "Punch list"
+    },
+    {
+      "id": "5c8abd03-b937-44cf-8284-1294661a6287",
+      "recordNumber": 2412,
+      "phaseNumber": 1,
+      "phaseName": "Underground"
+    },
+    {
+      "id": "89bb0a5a-a86f-47fc-8173-f84b7733f213",
+      "recordNumber": 2412,
+      "phaseNumber": 2,
+      "phaseName": "Rough-in"
+    },
+    {
+      "id": "223e0950-b27a-46b8-8f06-3407be439104",
+      "recordNumber": 2412,
+      "phaseNumber": 3,
+      "phaseName": "Top-out"
+    },
+    {
+      "id": "412f7b7d-72c6-48ae-8a71-e98d5e9e9359",
+      "recordNumber": 2412,
+      "phaseNumber": 4,
+      "phaseName": "Trim and finish"
+    },
+    {
+      "id": "74bb9d78-9a65-440c-81d6-5217b8819a50",
+      "recordNumber": 2412,
+      "phaseNumber": 5,
+      "phaseName": "Punch list"
+    }
+  ],
+  "ledger-accounts": [
+    {
+      "id": "b0548063-6301-4963-84ed-13c30532d92b",
+      "recordNumber": 1310,
+      "longName": "Inventory, materials",
+      "shortName": "Inventory",
+      "subsidiaryType": 0
+    },
+    {
+      "id": "1cccb832-a177-4628-83fc-8742a73491c7",
+      "recordNumber": 5110,
+      "longName": "Material costs, job",
+      "shortName": "Job material",
+      "subsidiaryType": 0,
+      "costType": 1
+    },
+    {
+      "id": "a6a774c7-9380-4680-8f50-b00e9b944edb",
+      "recordNumber": 5120,
+      "longName": "Material costs, service",
+      "shortName": "Service material",
+      "subsidiaryType": 0,
+      "costType": 1
+    },
+    {
+      "id": "3600cadc-024a-4c5a-86c6-768f483f80cc",
+      "recordNumber": 1290,
+      "longName": "Work in progress",
+      "shortName": "WIP",
+      "subsidiaryType": 0
+    },
+    {
+      "id": "cc2f21e5-c81e-4f73-8909-d8d32e05be09",
+      "recordNumber": 6110,
+      "longName": "Shop supplies",
+      "shortName": "Shop supplies",
+      "subsidiaryType": 0
+    },
+    {
+      "id": "9bf0b481-0643-436e-82da-80c79fc01183",
+      "recordNumber": 6120,
+      "longName": "Small tools",
+      "shortName": "Small tools",
+      "subsidiaryType": 0
+    },
+    {
+      "id": "2a0029f8-f2cf-445d-8332-0e64f88a20ee",
+      "recordNumber": 6130,
+      "longName": "Safety supplies",
+      "shortName": "Safety",
+      "subsidiaryType": 0
+    },
+    {
+      "id": "9bf39614-53eb-45c3-8a3e-744381a9e225",
+      "recordNumber": 6140,
+      "longName": "Vehicle stock",
+      "shortName": "Vehicle stock",
+      "subsidiaryType": 1
+    },
+    {
+      "id": "f1fa63f1-4b5b-4bf9-83c4-013941f5f063",
+      "recordNumber": 6210,
+      "longName": "Inventory shrinkage",
+      "shortName": "Shrinkage",
+      "subsidiaryType": 0
+    },
+    {
+      "id": "5dc5eb56-6045-44a7-83e6-b9f51711034d",
+      "recordNumber": 6220,
+      "longName": "Damaged goods",
+      "shortName": "Damaged",
+      "subsidiaryType": 0
+    },
+    {
+      "id": "7281e4c3-34d8-432f-82c0-d8029c3b4bdc",
+      "recordNumber": 6310,
+      "longName": "Warranty materials",
+      "shortName": "Warranty",
+      "subsidiaryType": 0
+    },
+    {
+      "id": "dbefcb88-c081-4f87-821e-02a7811497cb",
+      "recordNumber": 6410,
+      "longName": "Office supplies",
+      "shortName": "Office",
+      "subsidiaryType": 0
+    }
+  ],
+  "ledger-subaccounts": [
+    {
+      "id": "a7282326-296d-4aac-850f-800db6919476",
+      "recordNumber": 1,
+      "longName": "Van 1, north route",
+      "shortName": "Van 1",
+      "controlAccount": 6140
+    },
+    {
+      "id": "8631901a-e726-4722-813b-36cb31fc422a",
+      "recordNumber": 2,
+      "longName": "Van 2, south route",
+      "shortName": "Van 2",
+      "controlAccount": 6140
+    },
+    {
+      "id": "d2380f65-0783-44bc-82ca-7206e2892807",
+      "recordNumber": 3,
+      "longName": "Van 3, on-call",
+      "shortName": "Van 3",
+      "controlAccount": 6140
+    }
+  ],
+  "cost-codes": [
+    {
+      "id": "c3a8b345-9768-4f03-8950-cc64f1e93745",
+      "recordNumber": "1.100",
+      "codeName": "Supervision"
+    },
+    {
+      "id": "27e0be08-f6ee-4fe0-8a29-7c29b33ee3b1",
+      "recordNumber": "1.900",
+      "codeName": "General conditions"
+    },
+    {
+      "id": "d07b463f-83c7-4ba5-8015-017fc8d62ffb",
+      "recordNumber": "2.200",
+      "codeName": "Excavation"
+    },
+    {
+      "id": "691fd3e1-6604-4372-835c-fa410678619f",
+      "recordNumber": "3.300",
+      "codeName": "Concrete"
+    },
+    {
+      "id": "dc39a76e-61c7-459d-8c2b-ae31b2dfae18",
+      "recordNumber": "15.100",
+      "codeName": "Rough plumbing"
+    },
+    {
+      "id": "6566b952-be4c-4ccf-8215-d82dfcecaec7",
+      "recordNumber": "15.200",
+      "codeName": "Plumbing fixtures"
+    },
+    {
+      "id": "be542cc5-355c-4dcd-8ee7-073f03ba1ffc",
+      "recordNumber": "15.300",
+      "codeName": "Domestic water"
+    },
+    {
+      "id": "4e635975-5f97-4e98-8ee4-ffa2f70320ab",
+      "recordNumber": "15.400",
+      "codeName": "Sanitary waste and vent"
+    },
+    {
+      "id": "c3cdac2e-4f02-477b-84dd-08e868b5149b",
+      "recordNumber": "15.500",
+      "codeName": "HVAC equipment"
+    },
+    {
+      "id": "a128acb7-f255-4e39-87f3-4e6d1c6c50a1",
+      "recordNumber": "15.600",
+      "codeName": "Ductwork"
+    },
+    {
+      "id": "7dd7c291-e760-492c-8a0f-2744d2e51cd9",
+      "recordNumber": "15.700",
+      "codeName": "Controls"
+    },
+    {
+      "id": "bf3f13ac-211e-498c-8441-ffe18a5f62fa",
+      "recordNumber": "15.800",
+      "codeName": "Testing and balancing"
+    },
+    {
+      "id": "f5ac1a6e-c823-45d1-8b0a-c9a507dee9f5",
+      "recordNumber": "16.100",
+      "codeName": "Rough electrical"
+    },
+    {
+      "id": "0b283f3b-f538-479f-8c79-eaf611e3130e",
+      "recordNumber": "16.200",
+      "codeName": "Lighting"
+    },
+    {
+      "id": "a3c34b5e-580f-4a25-8448-75bfb7877889",
+      "recordNumber": "16.300",
+      "codeName": "Switchgear"
+    },
+    {
+      "id": "97f29683-a2d9-498f-8c50-6f9984d93711",
+      "recordNumber": "16.400",
+      "codeName": "Low voltage"
+    },
+    {
+      "id": "3603cf6e-49ea-4c8b-8b34-28fb5950b742",
+      "recordNumber": "16.500",
+      "codeName": "Fire alarm"
+    },
+    {
+      "id": "19dba696-8fc3-42f0-8f6c-e96a07a14768",
+      "recordNumber": "16.900",
+      "codeName": "Electrical trim"
+    }
+  ],
+  "cost-types": [
+    {
+      "id": "b8ccc790-4546-4f9d-8e63-c6bf75f07609",
+      "recordNumber": 1,
+      "costTypeName": "Material"
+    },
+    {
+      "id": "55ef2f88-38f3-4d93-8dae-802e474bd2e5",
+      "recordNumber": 2,
+      "costTypeName": "Labor"
+    },
+    {
+      "id": "794a839f-b600-4976-8b09-dc45eb9ecdd3",
+      "recordNumber": 3,
+      "costTypeName": "Equipment"
+    },
+    {
+      "id": "1ea1f53b-426a-4753-8c4a-34fd5d5952f7",
+      "recordNumber": 4,
+      "costTypeName": "Subcontract"
+    },
+    {
+      "id": "620bd921-b405-4f29-82aa-c8d37d7486b3",
+      "recordNumber": 5,
+      "costTypeName": "Other"
+    }
+  ],
+  "inventory-allocations": [
+    {
+      "id": "8eac725a-dbf3-4097-8d8f-60b89aebd129",
+      "recordNumber": 5011,
+      "transactionNumber": "T-5011",
+      "jobNumber": 2403,
+      "phaseNumber": 2,
+      "status": 4,
+      "costOrder": "",
+      "transactionDate": "RELATIVE:-12",
+      "description": "Rough-in material, level 2",
+      "deliveryMethod": "Truck 4",
+      "period": 0,
+      "year": 0,
+      "lines": [
+        {
+          "id": "3b46810b-dcbe-4032-84bb-ff3e801b5885",
+          "recordNumber": 5011,
+          "idRef": "8eac725a-dbf3-4097-8d8f-60b89aebd129",
+          "lineNumber": 1,
+          "partRecordNumber": 1003,
+          "partDescription": "3/4in copper tee",
+          "alphaNumber": "PL-102",
+          "unitDescription": "EA",
+          "inventoryQuantity": "24.0000",
+          "inventoryCost": "2.4100",
+          "inventoryTotal": "57.84",
+          "sourceLocation": 1,
+          "destinationLocation": 0,
+          "debitAccount": 5110,
+          "debitSubAccount": 0
+        },
+        {
+          "id": "c785a4c2-7272-4c51-800b-1f093194d1a9",
+          "recordNumber": 5011,
+          "idRef": "8eac725a-dbf3-4097-8d8f-60b89aebd129",
+          "lineNumber": 2,
+          "partRecordNumber": 1001,
+          "partDescription": "3/4in copper elbow",
+          "alphaNumber": "PL-100",
+          "unitDescription": "EA",
+          "inventoryQuantity": "40.0000",
+          "inventoryCost": "1.8600",
+          "inventoryTotal": "74.40",
+          "sourceLocation": 1,
+          "destinationLocation": 0,
+          "debitAccount": 5110,
+          "debitSubAccount": 0
+        }
+      ]
+    },
+    {
+      "id": "d4716328-4fb5-46b2-8852-a643b5d9c3db",
+      "recordNumber": 5012,
+      "transactionNumber": "T-5012",
+      "jobNumber": 0,
+      "phaseNumber": 0,
+      "status": 4,
+      "costOrder": "",
+      "transactionDate": "RELATIVE:-10",
+      "description": "Restock service van 1",
+      "deliveryMethod": "Picked up",
+      "period": 0,
+      "year": 0,
+      "lines": [
+        {
+          "id": "b8bee357-a809-4797-8ec0-43b2092784a4",
+          "recordNumber": 5012,
+          "idRef": "d4716328-4fb5-46b2-8852-a643b5d9c3db",
+          "lineNumber": 1,
+          "partRecordNumber": 1018,
+          "partDescription": "Water heater flex connector, 18in",
+          "alphaNumber": "PL-117",
+          "unitDescription": "EA",
+          "inventoryQuantity": "6.0000",
+          "inventoryCost": "13.6000",
+          "inventoryTotal": "81.60",
+          "sourceLocation": 1,
+          "destinationLocation": 3,
+          "debitAccount": 0,
+          "debitSubAccount": 0
+        },
+        {
+          "id": "5c7218be-8881-4177-817a-4f9ebb4d2eb3",
+          "recordNumber": 5012,
+          "idRef": "d4716328-4fb5-46b2-8852-a643b5d9c3db",
+          "lineNumber": 2,
+          "partRecordNumber": 1029,
+          "partDescription": "20A duplex receptacle",
+          "alphaNumber": "EL-128",
+          "unitDescription": "EA",
+          "inventoryQuantity": "12.0000",
+          "inventoryCost": "2.7500",
+          "inventoryTotal": "33.00",
+          "sourceLocation": 1,
+          "destinationLocation": 3,
+          "debitAccount": 0,
+          "debitSubAccount": 0
+        }
+      ]
+    },
+    {
+      "id": "3712a4a2-02b9-41c2-8c30-7eb88b365d61",
+      "recordNumber": 5013,
+      "transactionNumber": "T-5013",
+      "jobNumber": 0,
+      "phaseNumber": 0,
+      "status": 4,
+      "costOrder": "",
+      "transactionDate": "RELATIVE:-8",
+      "description": "Damaged in yard",
+      "deliveryMethod": "Truck 4",
+      "period": 0,
+      "year": 0,
+      "lines": [
+        {
+          "id": "150dc3b3-3a33-424a-8e3d-1d77557022f3",
+          "recordNumber": 5013,
+          "idRef": "3712a4a2-02b9-41c2-8c30-7eb88b365d61",
+          "lineNumber": 1,
+          "partRecordNumber": 1009,
+          "partDescription": "2in PVC sch 40 pipe, 10ft",
+          "alphaNumber": "PL-108",
+          "unitDescription": "EA",
+          "inventoryQuantity": "2.0000",
+          "inventoryCost": "14.6000",
+          "inventoryTotal": "29.20",
+          "sourceLocation": 2,
+          "destinationLocation": 0,
+          "debitAccount": 6220,
+          "debitSubAccount": 0
+        }
+      ]
+    },
+    {
+      "id": "8086e3fa-2cd8-4f86-80c6-18d6330fcb0d",
+      "recordNumber": 5014,
+      "transactionNumber": "T-5014",
+      "jobNumber": 2401,
+      "phaseNumber": 3,
+      "status": 3,
+      "costOrder": "",
+      "transactionDate": "RELATIVE:-6",
+      "description": "Hold for top-out",
+      "deliveryMethod": "Picked up",
+      "period": 0,
+      "year": 0,
+      "lines": [
+        {
+          "id": "783a8dd3-ca0a-42e0-8ec5-e7c31507a113",
+          "recordNumber": 5014,
+          "idRef": "8086e3fa-2cd8-4f86-80c6-18d6330fcb0d",
+          "lineNumber": 1,
+          "partRecordNumber": 1007,
+          "partDescription": "3/4in ball valve, lead free",
+          "alphaNumber": "PL-106",
+          "unitDescription": "EA",
+          "inventoryQuantity": "8.0000",
+          "inventoryCost": "17.2500",
+          "inventoryTotal": "138.00",
+          "sourceLocation": 1,
+          "destinationLocation": 0,
+          "debitAccount": 5110,
+          "debitSubAccount": 0
+        }
+      ]
+    },
+    {
+      "id": "88cda018-89e6-43f3-88a3-96b0ff52fcd5",
+      "recordNumber": 5015,
+      "transactionNumber": "T-5015",
+      "jobNumber": 2406,
+      "phaseNumber": 0,
+      "status": 1,
+      "costOrder": "",
+      "transactionDate": "RELATIVE:-4",
+      "description": "Fixture rough-in, pending review",
+      "deliveryMethod": "Truck 4",
+      "period": 0,
+      "year": 0,
+      "lines": [
+        {
+          "id": "cb5c2d2a-e88d-41b3-8dbb-2a8461af6056",
+          "recordNumber": 5015,
+          "idRef": "88cda018-89e6-43f3-88a3-96b0ff52fcd5",
+          "lineNumber": 1,
+          "partRecordNumber": 1020,
+          "partDescription": "Floor drain, 3in",
+          "alphaNumber": "PL-119",
+          "unitDescription": "EA",
+          "inventoryQuantity": "4.0000",
+          "inventoryCost": "42.7500",
+          "inventoryTotal": "171.00",
+          "sourceLocation": 1,
+          "destinationLocation": 0,
+          "debitAccount": 5110,
+          "debitSubAccount": 0
+        },
+        {
+          "id": "ab057106-6391-44ac-84f9-116bf753a253",
+          "recordNumber": 5015,
+          "idRef": "88cda018-89e6-43f3-88a3-96b0ff52fcd5",
+          "lineNumber": 2,
+          "partRecordNumber": 1063,
+          "partDescription": "Toilet wax ring",
+          "alphaNumber": "GN-162",
+          "unitDescription": "EA",
+          "inventoryQuantity": "4.0000",
+          "inventoryCost": "4.2000",
+          "inventoryTotal": "16.80",
+          "sourceLocation": 1,
+          "destinationLocation": 0,
+          "debitAccount": 5110,
+          "debitSubAccount": 0
+        }
+      ]
+    }
+  ]
+}
